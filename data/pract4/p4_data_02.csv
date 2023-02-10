@@ -1,0 +1,1001 @@
+ID,Product,Category,Price,OutOfDate
+1,"Coke - Classic, 355 Ml",Невкусные,$61.63,false
+2,Bols Melon Liqueur,Неизвестно,$41.04,false
+3,Beef - Prime Rib Aaa,Неизвестно,$75.64,false
+4,Capers - Ox Eye Daisy,Неизвестно,$80.10,false
+5,Dawn Professionl Pot And Pan,Вкусные,$48.45,true
+6,Cookies Cereal Nut,Невкусные,$65.95,true
+7,Beef - Striploin,Невкусные,$70.46,true
+8,Beer - Molson Excel,Неизвестно,$47.49,true
+9,"Wine - Harrow Estates, Vidal",Вкусные,$75.42,false
+10,Cleaner - Lime Away,Невкусные,$14.07,true
+11,"Shrimp - Baby, Warm Water",Невкусные,$87.34,false
+12,Yucca,Невкусные,$86.31,false
+13,Squid Ink,Вкусные,$46.16,false
+14,Cookie Trail Mix,Невкусные,$88.07,false
+15,Cheese - Sheep Milk,Вкусные,$42.73,false
+16,Rum - Mount Gay Eclipes,Вкусные,$82.60,true
+17,Cheese - Brie,Невкусные,$24.84,false
+18,"Carrots - Mini, Stem On",Вкусные,$11.02,false
+19,"Chilli Paste, Hot Sambal Oelek",Невкусные,$73.35,true
+20,Wine - Alicanca Vinho Verde,Невкусные,$19.08,false
+21,Tea - Herbal Orange Spice,Вкусные,$12.44,true
+22,Eggs - Extra Large,Вкусные,$54.03,false
+23,Chocolate - Milk Coating,Невкусные,$78.61,false
+24,Flower - Dish Garden,Вкусные,$93.90,false
+25,Calvados - Boulard,Вкусные,$79.87,false
+26,"Wine - White, Chardonnay",Неизвестно,$17.72,true
+27,Tomatoes - Hot House,Невкусные,$68.59,true
+28,"Chicken - Wings, Tip Off",Вкусные,$12.81,false
+29,"Apple - Delicious, Golden",Вкусные,$97.41,false
+30,"Sparkling Wine - Rose, Freixenet",Неизвестно,$74.33,false
+31,Onions - Red Pearl,Неизвестно,$24.49,true
+32,Bread - Italian Sesame Poly,Невкусные,$61.32,true
+33,Roe - Flying Fish,Невкусные,$86.79,false
+34,Coffee Decaf Colombian,Невкусные,$70.74,true
+35,Truffle Cups - Red,Неизвестно,$56.33,true
+36,Mix Pina Colada,Невкусные,$88.36,false
+37,Cookie - Oreo 100x2,Невкусные,$31.22,false
+38,"Crab - Claws, Snow 16 - 24",Неизвестно,$62.81,true
+39,Tomatoes Tear Drop,Вкусные,$47.48,true
+40,Soy Protein,Невкусные,$72.31,true
+41,"7up Diet, 355 Ml",Неизвестно,$48.53,false
+42,"Cheese - Cheddar, Medium",Невкусные,$89.16,true
+43,Soup - Campbells Chicken,Вкусные,$49.56,false
+44,Almonds Ground Blanched,Неизвестно,$16.53,true
+45,Veal - Eye Of Round,Вкусные,$31.54,false
+46,Bread - Pita,Неизвестно,$81.47,false
+47,Cake Sheet Combo Party Pack,Невкусные,$29.78,false
+48,Cheese - Taleggio D.o.p.,Вкусные,$55.60,false
+49,Initation Crab Meat,Вкусные,$37.17,false
+50,Wine - Chianti Classico Riserva,Вкусные,$69.54,true
+51,Lettuce - Iceberg,Невкусные,$82.38,true
+52,Peas - Frozen,Вкусные,$81.07,false
+53,Grouper - Fresh,Невкусные,$42.69,false
+54,Pastry - Chocolate Chip Muffin,Вкусные,$90.87,true
+55,Dawn Professionl Pot And Pan,Неизвестно,$28.44,true
+56,Pork - Backs - Boneless,Неизвестно,$83.71,false
+57,Basil - Thai,Вкусные,$14.60,true
+58,Chinese Foods - Chicken,Вкусные,$75.86,false
+59,Basil - Thai,Неизвестно,$65.82,false
+60,Oil - Shortening - All - Purpose,Невкусные,$62.31,false
+61,Muffin Mix - Chocolate Chip,Вкусные,$59.23,false
+62,Tomatoes - Yellow Hot House,Невкусные,$71.66,false
+63,Butcher Twine 4r,Неизвестно,$78.19,true
+64,Cheese - Comtomme,Вкусные,$18.23,true
+65,Salad Dressing,Неизвестно,$93.85,true
+66,Soup - Campbells Mushroom,Невкусные,$16.45,true
+67,Butter Balls Salted,Неизвестно,$89.58,false
+68,Cookie Chocolate Chip With,Вкусные,$41.21,false
+69,Pasta - Ravioli,Неизвестно,$89.73,false
+70,The Pop Shoppe - Grape,Вкусные,$31.46,false
+71,"Nut - Pine Nuts, Whole",Невкусные,$36.76,false
+72,Cheese - Cambozola,Вкусные,$54.92,true
+73,Beer - Labatt Blue,Неизвестно,$48.23,false
+74,Cookie Dough - Chocolate Chip,Неизвестно,$10.04,true
+75,Bread - Rosemary Focaccia,Неизвестно,$27.63,true
+76,Soup - Boston Clam Chowder,Вкусные,$18.71,false
+77,Parsnip,Неизвестно,$52.17,true
+78,Pants Custom Dry Clean,Вкусные,$39.15,true
+79,"Red Snapper - Fresh, Whole",Вкусные,$15.82,true
+80,Ice Cream - Turtles Stick Bar,Неизвестно,$28.94,true
+81,Phyllo Dough,Неизвестно,$93.90,true
+82,Dc - Sakura Fu,Вкусные,$66.16,false
+83,Jerusalem Artichoke,Неизвестно,$79.93,true
+84,"Sauce - Bernaise, Mix",Неизвестно,$55.60,true
+85,Lamb Rack - Ontario,Невкусные,$25.99,true
+86,Apple - Northern Spy,Неизвестно,$39.08,true
+87,Sauce - Roasted Red Pepper,Неизвестно,$26.76,true
+88,Hot Chocolate - Individual,Вкусные,$52.98,true
+89,Alize Sunset,Неизвестно,$87.15,false
+90,"Cake Circle, Foil, Scallop",Вкусные,$28.17,false
+91,Sprite - 355 Ml,Вкусные,$55.09,false
+92,Appetiser - Bought,Невкусные,$28.60,true
+93,Soup - Boston Clam Chowder,Невкусные,$61.09,true
+94,"Vermacelli - Sprinkles, Assorted",Неизвестно,$30.20,false
+95,"Wine - Red, Colio Cabernet",Вкусные,$61.26,false
+96,Wine - Niagara Peninsula Vqa,Невкусные,$83.10,false
+97,Ecolab - Ster Bac,Неизвестно,$11.09,false
+98,Burger Veggie,Неизвестно,$83.38,true
+99,Coffee - Decaffeinato Coffee,Неизвестно,$37.69,false
+100,"Yogurt - Banana, 175 Gr",Вкусные,$66.01,true
+101,"Pasta - Detalini, White, Fresh",Неизвестно,$73.78,true
+102,"Bag - Bread, White, Plain",Вкусные,$30.12,true
+103,Laundry - Bag Cloth,Невкусные,$27.98,false
+104,Juice - Lime,Неизвестно,$78.92,true
+105,Cheese - Brick With Pepper,Вкусные,$56.15,true
+106,Squeeze Bottle,Неизвестно,$84.96,false
+107,Towel Dispenser,Невкусные,$61.21,true
+108,Flour - Teff,Невкусные,$91.87,false
+109,Cream - 10%,Вкусные,$10.25,true
+110,Island Oasis - Mango Daiquiri,Неизвестно,$90.07,true
+111,Daikon Radish,Вкусные,$68.52,true
+112,"Soup - Campbells, Spinach Crm",Вкусные,$29.51,true
+113,Turkey Leg With Drum And Thigh,Вкусные,$55.25,true
+114,"Jam - Marmalade, Orange",Невкусные,$58.49,true
+115,Duck - Legs,Вкусные,$56.94,true
+116,Pecan Raisin - Tarts,Вкусные,$82.73,true
+117,Bread - Hot Dog Buns,Невкусные,$15.77,false
+118,Ecolab Silver Fusion,Неизвестно,$37.58,true
+119,Tart - Butter Plain Squares,Вкусные,$16.01,true
+120,"Ice - Clear, 300 Lb For Carving",Неизвестно,$55.73,false
+121,Salmon Steak - Cohoe 8 Oz,Неизвестно,$82.36,false
+122,"Crush - Orange, 355ml",Невкусные,$91.35,true
+123,Mustard Prepared,Невкусные,$26.25,true
+124,Lamb - Whole Head Off,Невкусные,$84.28,false
+125,Chinese Foods - Plain Fried Rice,Вкусные,$63.58,true
+126,Melon - Honey Dew,Вкусные,$95.70,false
+127,Oregano - Fresh,Неизвестно,$78.04,false
+128,Wine - Vidal Icewine Magnotta,Невкусные,$77.35,true
+129,Pastry - French Mini Assorted,Неизвестно,$61.93,false
+130,Pastry - Apple Large,Невкусные,$43.50,false
+131,Juice - Lagoon Mango,Неизвестно,$74.89,true
+132,Wine - Chenin Blanc K.w.v.,Вкусные,$15.26,false
+133,Beef - Prime Rib Aaa,Невкусные,$25.66,false
+134,Steampan - Half Size Shallow,Неизвестно,$37.07,false
+135,Broom Handle,Невкусные,$58.20,true
+136,"Split Peas - Green, Dry",Невкусные,$35.57,true
+137,"Dill - Primerba, Paste",Неизвестно,$65.13,false
+138,Sausage - Liver,Вкусные,$56.53,false
+139,"Lemonade - Strawberry, 591 Ml",Вкусные,$65.15,false
+140,"Artichoke - Hearts, Canned",Вкусные,$26.78,false
+141,Sour Cream,Неизвестно,$18.25,false
+142,Sauce - Caesar Dressing,Неизвестно,$36.70,false
+143,Vaccum Bag 10x13,Неизвестно,$93.39,false
+144,Crawfish,Вкусные,$53.15,false
+145,Flavouring - Rum,Вкусные,$59.66,false
+146,Mushroom - Crimini,Неизвестно,$87.86,false
+147,Myers Planters Punch,Невкусные,$90.13,false
+148,Muffin Batt - Carrot Spice,Неизвестно,$65.78,false
+149,Chips - Assorted,Невкусные,$59.69,true
+150,"Soup - Beef, Base Mix",Невкусные,$83.88,true
+151,Nut - Macadamia,Невкусные,$72.13,true
+152,Cheese - Grie Des Champ,Вкусные,$84.85,true
+153,Sauce - Demi Glace,Невкусные,$76.57,false
+154,Coffee - Decafenated,Невкусные,$51.96,true
+155,Chips - Miss Vickies,Неизвестно,$48.19,true
+156,"Wine - Sherry Dry Sack, William",Вкусные,$65.25,true
+157,Water - San Pellegrino,Неизвестно,$48.83,false
+158,Tamarillo,Вкусные,$90.69,false
+159,Peas - Frozen,Неизвестно,$70.50,false
+160,Bowl 12 Oz - Showcase 92012,Вкусные,$64.13,false
+161,Vinegar - Tarragon,Неизвестно,$55.02,true
+162,Sobe - Berry Energy,Неизвестно,$85.19,false
+163,Sugar - Palm,Невкусные,$90.20,false
+164,Cabbage - Nappa,Невкусные,$50.92,false
+165,Juice - Lime,Неизвестно,$71.17,false
+166,Slt - Individual Portions,Вкусные,$31.41,false
+167,Mikes Hard Lemonade,Невкусные,$79.03,true
+168,"Soup - Campbells, Cream Of",Неизвестно,$98.06,true
+169,Ice Cream - Vanilla,Неизвестно,$12.82,false
+170,"Sprite, Diet - 355ml",Неизвестно,$87.74,true
+171,Venison - Denver Leg Boneless,Невкусные,$21.89,true
+172,Ham - Cooked Bayonne Tinned,Вкусные,$97.69,true
+173,"Vinegar - Balsamic, White",Неизвестно,$38.14,true
+174,Juice - V8 Splash,Невкусные,$86.47,false
+175,Salmon Steak - Cohoe 6 Oz,Невкусные,$65.10,false
+176,Tofu - Soft,Неизвестно,$75.66,true
+177,Ecolab Crystal Fusion,Вкусные,$10.20,false
+178,"Red Snapper - Fresh, Whole",Вкусные,$85.45,true
+179,"Pepper - Paprika, Hungarian",Невкусные,$24.30,false
+180,Turkey Leg With Drum And Thigh,Вкусные,$72.11,true
+181,Oil - Peanut,Неизвестно,$34.54,false
+182,Salmon - Sockeye Raw,Неизвестно,$11.65,false
+183,Muffin Orange Individual,Невкусные,$47.13,false
+184,"Lamb - Whole Head Off,nz",Невкусные,$62.18,true
+185,"Beans - Kidney, Red Dry",Вкусные,$15.92,false
+186,"Lemonade - Black Cherry, 591 Ml",Вкусные,$90.38,true
+187,Lamb Tenderloin Nz Fr,Вкусные,$61.05,false
+188,"Nut - Cashews, Whole, Raw",Невкусные,$29.01,true
+189,Bagelers,Неизвестно,$55.07,true
+190,Pastry - Chocolate Chip Muffin,Вкусные,$60.87,false
+191,Piping Jelly - All Colours,Вкусные,$41.75,false
+192,Jolt Cola - Electric Blue,Невкусные,$15.21,false
+193,Pheasants - Whole,Вкусные,$58.43,true
+194,Juice - Cranberry 284ml,Вкусные,$31.08,false
+195,"Wine - Red, Black Opal Shiraz",Невкусные,$29.81,true
+196,Pineapple - Golden,Неизвестно,$87.63,false
+197,Nori Sea Weed,Вкусные,$80.04,true
+198,Lettuce - Romaine,Неизвестно,$44.43,true
+199,Beef - Ground Lean Fresh,Невкусные,$85.89,true
+200,Cheese - St. Paulin,Неизвестно,$99.04,false
+201,Sugar - Splenda Sweetener,Невкусные,$50.94,false
+202,Eggplant Oriental,Вкусные,$88.95,false
+203,Jello - Assorted,Вкусные,$54.72,true
+204,Wine - Pinot Noir Stoneleigh,Невкусные,$13.80,false
+205,Langers - Mango Nectar,Невкусные,$82.66,true
+206,Cheese - Gouda Smoked,Вкусные,$13.21,true
+207,Wine - Chenin Blanc K.w.v.,Неизвестно,$89.50,false
+208,Parsley Italian - Fresh,Вкусные,$11.70,false
+209,Flour - Chickpea,Неизвестно,$99.36,true
+210,Table Cloth 54x54 White,Вкусные,$16.39,false
+211,Cream - 10%,Невкусные,$49.46,false
+212,Beef - Top Sirloin,Невкусные,$55.08,true
+213,Milk - Homo,Неизвестно,$84.55,false
+214,"Tart Shells - Savory, 3",Невкусные,$92.25,false
+215,Vinegar - Champagne,Невкусные,$32.40,false
+216,Wine - Montecillo Rioja Crianza,Невкусные,$94.94,false
+217,Vaccum Bag - 14x20,Вкусные,$62.27,false
+218,"Pork - Sausage, Medium",Неизвестно,$60.48,false
+219,Wine - Jafflin Bourgongone,Неизвестно,$30.73,false
+220,Pastry - Lemon Danish - Mini,Неизвестно,$94.21,false
+221,Beer - Labatt Blue,Неизвестно,$62.60,false
+222,Pork - Back Ribs,Невкусные,$89.56,true
+223,"Pail - 15l White, With Handle",Неизвестно,$38.10,true
+224,Juice - Ocean Spray Kiwi,Невкусные,$41.86,false
+225,Salt And Pepper Mix - Black,Вкусные,$19.73,false
+226,Cilantro / Coriander - Fresh,Вкусные,$91.93,true
+227,Bread - Flat Bread,Невкусные,$53.18,false
+228,"Syrup - Golden, Lyles",Неизвестно,$50.97,true
+229,Vector Energy Bar,Неизвестно,$66.11,true
+230,Water - Aquafina Vitamin,Неизвестно,$48.82,true
+231,Beef - Tenderloin,Невкусные,$33.95,true
+232,Gooseberry,Невкусные,$51.89,true
+233,"Pepsi - Diet, 355 Ml",Невкусные,$62.03,true
+234,"Lid - Translucent, 3.5 And 6 Oz",Невкусные,$85.68,false
+235,Butter Sweet,Неизвестно,$43.15,true
+236,Pail For Lid 1537,Неизвестно,$66.82,true
+237,Longos - Lasagna Beef,Неизвестно,$20.84,true
+238,Wine - Prosecco Valdobiaddene,Невкусные,$82.77,true
+239,Onions - Spanish,Вкусные,$60.75,false
+240,Pear - Packum,Невкусные,$13.34,true
+241,Yogurt - Plain,Неизвестно,$54.43,false
+242,Wine - Tribal Sauvignon,Вкусные,$88.34,true
+243,"Corn - Cream, Canned",Вкусные,$47.20,true
+244,Wine - Ruffino Chianti Classico,Невкусные,$30.52,false
+245,Trueblue - Blueberry Cranberry,Невкусные,$78.10,true
+246,Pur Source,Неизвестно,$44.25,false
+247,"Nut - Pecan, Halves",Невкусные,$66.47,false
+248,Beer - Heinekin,Неизвестно,$89.45,false
+249,Juice - Orangina,Неизвестно,$56.80,false
+250,Nantucket Cranberry Juice,Вкусные,$40.96,true
+251,"Yogurt - Peach, 175 Gr",Неизвестно,$43.70,true
+252,Wine - Ej Gallo Sierra Valley,Невкусные,$28.12,false
+253,Chocolate Bar - Coffee Crisp,Вкусные,$98.59,true
+254,Filo Dough,Вкусные,$49.99,false
+255,Triple Sec - Mcguinness,Невкусные,$93.21,false
+256,Wine - Prosecco Valdobienne,Вкусные,$16.36,false
+257,Water - Aquafina Vitamin,Неизвестно,$49.37,false
+258,Sausage - Andouille,Неизвестно,$59.56,false
+259,Marjoram - Fresh,Невкусные,$38.84,true
+260,"Soup - Clam Chowder, Dry Mix",Вкусные,$63.72,true
+261,Sauce - Rosee,Невкусные,$23.76,true
+262,Steamers White,Неизвестно,$87.23,true
+263,Cookie Chocolate Chip With,Невкусные,$35.79,true
+264,Sloe Gin - Mcguinness,Вкусные,$50.71,false
+265,Beef - Texas Style Burger,Вкусные,$53.93,false
+266,Orange Roughy 4/6 Oz,Невкусные,$98.07,true
+267,Foam Espresso Cup Plain White,Неизвестно,$73.01,true
+268,Wine - Chateau Timberlay,Вкусные,$33.60,true
+269,Miso - Soy Bean Paste,Невкусные,$22.60,true
+270,"Vodka - Lemon, Absolut",Вкусные,$11.77,true
+271,Milk - Skim,Неизвестно,$96.69,true
+272,"Pepper - Green, Chili",Вкусные,$69.13,false
+273,Beans - Wax,Невкусные,$44.63,false
+274,Tomatoes - Orange,Невкусные,$86.38,true
+275,Mix - Cocktail Strawberry Daiquiri,Неизвестно,$98.89,true
+276,Shrimp - Black Tiger 8 - 12,Вкусные,$70.40,true
+277,Eggplant Oriental,Вкусные,$58.37,true
+278,Wine - Chablis J Moreau Et Fils,Вкусные,$60.51,true
+279,"Butter - Salted, Micro",Вкусные,$42.42,false
+280,Syrup - Chocolate,Невкусные,$75.22,false
+281,Eggroll,Невкусные,$73.93,false
+282,Truffle Shells - White Chocolate,Неизвестно,$47.56,true
+283,Beer - Camerons Auburn,Неизвестно,$11.48,true
+284,Tuna - Bluefin,Вкусные,$31.14,true
+285,Wooden Mop Handle,Невкусные,$53.47,false
+286,Steam Pan - Half Size Deep,Неизвестно,$51.21,true
+287,Flour - Strong,Невкусные,$74.15,true
+288,Table Cloth 62x120 Colour,Вкусные,$85.30,false
+289,Rice Paper,Вкусные,$46.85,true
+290,"Soup - Knorr, Veg / Beef",Вкусные,$48.42,false
+291,Chutney Sauce - Mango,Невкусные,$97.11,true
+292,Cheese Cloth,Вкусные,$58.66,true
+293,Cookies Cereal Nut,Неизвестно,$56.28,true
+294,Tea - Honey Green Tea,Невкусные,$22.46,true
+295,Glass Clear 7 Oz Xl,Невкусные,$77.94,false
+296,Wine - Magnotta - Pinot Gris Sr,Вкусные,$76.54,false
+297,Oil - Olive,Невкусные,$56.80,false
+298,Cake - Night And Day Choclate,Вкусные,$89.26,true
+299,Halibut - Steaks,Невкусные,$85.17,true
+300,Apple - Custard,Неизвестно,$42.45,true
+301,Otomegusa Dashi Konbu,Невкусные,$60.33,true
+302,Lettuce - Belgian Endive,Вкусные,$77.43,true
+303,Table Cloth 81x81 Colour,Невкусные,$50.47,true
+304,"Chilli Paste, Ginger Garlic",Вкусные,$97.81,true
+305,Chocolate - Chips Compound,Невкусные,$36.19,false
+306,"Peas - Pigeon, Dry",Вкусные,$78.44,false
+307,"Orange - Canned, Mandarin",Вкусные,$64.97,false
+308,Cheese Cloth No 60,Неизвестно,$71.87,true
+309,Apricots - Halves,Невкусные,$25.15,true
+310,"Vinegar - Balsamic, White",Неизвестно,$82.31,false
+311,Oil - Pumpkinseed,Неизвестно,$45.23,true
+312,Wine - Two Oceans Cabernet,Невкусные,$50.37,false
+313,Bread - Sour Sticks With Onion,Неизвестно,$65.00,false
+314,Beer - Upper Canada Lager,Неизвестно,$88.38,false
+315,Basil - Seedlings Cookstown,Невкусные,$77.78,true
+316,Sauce - Balsamic Viniagrette,Невкусные,$20.75,true
+317,"Ham - Smoked, Bone - In",Невкусные,$74.74,true
+318,Sprouts - Bean,Неизвестно,$54.03,false
+319,"Soup - Knorr, Chicken Gumbo",Вкусные,$52.31,false
+320,Carrots - Mini Red Organic,Вкусные,$26.30,false
+321,Wine - Marlbourough Sauv Blanc,Невкусные,$30.97,true
+322,Sauce - Caesar Dressing,Невкусные,$68.06,false
+323,"Yogurt - Strawberry, 175 Gr",Невкусные,$67.23,false
+324,Bread - Italian Sesame Poly,Неизвестно,$87.06,true
+325,Soy Protein,Невкусные,$58.41,false
+326,Ecolab - Power Fusion,Невкусные,$77.85,false
+327,Soup Campbells - Italian Wedding,Неизвестно,$22.37,false
+328,Soup Campbells,Неизвестно,$48.46,false
+329,"Tendrils - Baby Pea, Organic",Вкусные,$22.94,true
+330,Tomatoes Tear Drop Yellow,Неизвестно,$21.81,true
+331,"Quail - Eggs, Fresh",Невкусные,$99.15,true
+332,Soup - Campbells Asian Noodle,Неизвестно,$47.30,false
+333,"Wine - White, French Cross",Неизвестно,$64.53,false
+334,"Cheese - Havarti, Roasted Garlic",Неизвестно,$94.94,true
+335,Crush - Cream Soda,Неизвестно,$90.41,true
+336,Cake - Mini Cheesecake,Вкусные,$68.67,false
+337,"Mushroom - Enoki, Dry",Вкусные,$76.98,true
+338,Wine - Ice Wine,Вкусные,$61.36,true
+339,Mayonnaise,Невкусные,$71.02,false
+340,Longos - Grilled Chicken With,Неизвестно,$46.53,true
+341,Veal - Osso Bucco,Вкусные,$80.05,true
+342,Wine - Pinot Grigio Collavini,Неизвестно,$75.36,false
+343,Chicken - Ground,Невкусные,$38.74,true
+344,Bandage - Fexible 1x3,Неизвестно,$54.40,true
+345,Broom - Angled,Неизвестно,$46.35,false
+346,Oil - Coconut,Невкусные,$95.60,true
+347,Lettuce - Arugula,Неизвестно,$85.00,false
+348,Cheese - Parmigiano Reggiano,Неизвестно,$54.97,true
+349,Energy - Boo - Koo,Неизвестно,$51.74,false
+350,Cheese - Ermite Bleu,Неизвестно,$33.13,true
+351,Cod - Fillets,Вкусные,$17.60,true
+352,Bacardi Breezer - Tropical,Вкусные,$39.28,false
+353,Paper - Brown Paper Mini Cups,Вкусные,$86.68,true
+354,Straw - Regular,Невкусные,$34.60,true
+355,Pasta - Agnolotti - Butternut,Вкусные,$57.87,true
+356,Juice - V8 Splash,Невкусные,$23.11,false
+357,Rye Special Old,Невкусные,$58.01,true
+358,White Fish - Filets,Невкусные,$23.24,false
+359,Bacardi Raspberry,Невкусные,$78.51,false
+360,Edible Flower - Mixed,Неизвестно,$24.89,false
+361,Breakfast Quesadillas,Вкусные,$83.65,true
+362,Ice Cream Bar - Rolo Cone,Вкусные,$34.62,true
+363,Soup - Campbells Beef Noodle,Вкусные,$78.36,true
+364,Ecolab - Medallion,Неизвестно,$51.50,true
+365,"Lid - 10,12,16 Oz",Вкусные,$18.03,false
+366,Plums - Red,Невкусные,$13.12,false
+367,Milk - 1%,Невкусные,$98.41,false
+368,Island Oasis - Raspberry,Неизвестно,$21.86,false
+369,Rye Special Old,Вкусные,$87.01,false
+370,Energy Drink Red Bull,Невкусные,$21.06,false
+371,The Pop Shoppe - Grape,Неизвестно,$25.15,true
+372,Lid - 3oz Med Rec,Неизвестно,$82.65,false
+373,Cheese - Cambozola,Вкусные,$57.90,false
+374,Buffalo - Tenderloin,Неизвестно,$40.60,true
+375,Bar Energy Chocchip,Вкусные,$68.59,true
+376,Leeks - Large,Невкусные,$98.04,false
+377,Yoplait - Strawbrasp Peac,Неизвестно,$62.03,false
+378,Beef - Ox Tongue,Невкусные,$84.19,false
+379,Beer - Sleeman Fine Porter,Вкусные,$25.10,false
+380,Oil - Shortening - All - Purpose,Вкусные,$76.28,false
+381,"Wine - White, Pinot Grigio",Невкусные,$26.56,true
+382,"Cup - 3.5oz, Foam",Неизвестно,$87.74,false
+383,"Rum - Spiced, Captain Morgan",Неизвестно,$84.99,false
+384,Vinegar - Raspberry,Вкусные,$99.07,true
+385,Jicama,Вкусные,$94.68,true
+386,"Pepper - Julienne, Frozen",Неизвестно,$17.64,false
+387,Muskox - French Rack,Неизвестно,$61.82,true
+388,Wine - Chateau Bonnet,Невкусные,$58.09,true
+389,"Bread - Crumbs, Bulk",Неизвестно,$59.79,true
+390,"Stock - Veal, White",Неизвестно,$99.77,false
+391,Lamb - Sausage Casings,Неизвестно,$20.84,true
+392,Fennel,Неизвестно,$80.74,false
+393,Veal - Loin,Невкусные,$71.83,false
+394,Flour - So Mix Cake White,Вкусные,$37.60,false
+395,Tea - Grapefruit Green Tea,Неизвестно,$31.67,false
+396,Duck - Breast,Невкусные,$70.08,false
+397,Beets - Mini Golden,Неизвестно,$66.46,true
+398,Pork - Suckling Pig,Невкусные,$99.46,false
+399,Bread - Hamburger Buns,Вкусные,$17.03,false
+400,"Veal - Tenderloin, Untrimmed",Невкусные,$52.07,true
+401,Arizona - Green Tea,Неизвестно,$12.16,true
+402,Aspic - Light,Вкусные,$78.27,false
+403,Chocolate - White,Вкусные,$40.76,false
+404,Wine - Beaujolais Villages,Невкусные,$10.07,true
+405,Longos - Chicken Caeser Salad,Вкусные,$77.94,false
+406,Pie Filling - Pumpkin,Невкусные,$21.37,true
+407,Sultanas,Неизвестно,$21.83,true
+408,Garbage Bags - Clear,Вкусные,$42.28,false
+409,Pastry - Chocolate Chip Muffin,Невкусные,$19.01,false
+410,Longos - Chicken Caeser Salad,Невкусные,$17.47,true
+411,"Bread - Bagels, Mini",Неизвестно,$76.52,false
+412,Sausage - Breakfast,Вкусные,$22.79,true
+413,Clementine,Вкусные,$54.56,false
+414,Wine - Coteaux Du Tricastin Ac,Невкусные,$39.10,false
+415,"Oil - Olive, Extra Virgin",Вкусные,$14.85,true
+416,Tart - Butter Plain Squares,Вкусные,$71.66,true
+417,Frangelico,Вкусные,$47.14,true
+418,Cookies - Englishbay Wht,Вкусные,$14.15,false
+419,"Soup - Campbells, Butternut",Неизвестно,$76.46,false
+420,Kumquat,Невкусные,$28.69,true
+421,Soupcontfoam16oz 116con,Невкусные,$95.78,false
+422,Coffee - Dark Roast,Неизвестно,$13.66,false
+423,Port - 74 Brights,Невкусные,$21.45,true
+424,Pastry - Chocolate Marble Tea,Невкусные,$36.72,true
+425,Soup - Campbells,Неизвестно,$88.63,false
+426,"Mop Head - Cotton, 24 Oz",Неизвестно,$29.09,false
+427,Capon - Whole,Вкусные,$60.22,true
+428,"Pork - Tenderloin, Frozen",Неизвестно,$85.88,false
+429,"Tortillas - Flour, 10",Неизвестно,$14.09,false
+430,Whmis - Spray Bottle Trigger,Невкусные,$81.74,false
+431,Rice Wine - Aji Mirin,Невкусные,$15.52,false
+432,Cheese - Gouda,Неизвестно,$80.13,false
+433,Lemon Grass,Невкусные,$63.45,true
+434,Lamb Rack - Ontario,Невкусные,$85.21,false
+435,"Pasta - Lasagna, Dry",Неизвестно,$65.44,false
+436,Cognac - Courvaisier,Вкусные,$90.08,true
+437,Remy Red Berry Infusion,Вкусные,$81.17,true
+438,"Wine - White, Colubia Cresh",Невкусные,$80.58,false
+439,"Pasta - Penne Primavera, Single",Вкусные,$58.53,false
+440,Appetizer - Seafood Assortment,Неизвестно,$25.11,false
+441,Buttons,Вкусные,$44.55,true
+442,"Lid - 10,12,16 Oz",Невкусные,$56.10,true
+443,Bols Melon Liqueur,Вкусные,$62.34,true
+444,"Pork - Chop, Frenched",Неизвестно,$72.26,true
+445,Wine - Magnotta - Belpaese,Невкусные,$75.36,true
+446,Tea - Apple Green Tea,Неизвестно,$82.17,false
+447,"Glass - Wine, Plastic, Clear 5 Oz",Вкусные,$11.28,false
+448,Coffee Cup 16oz Foam,Неизвестно,$53.53,true
+449,"Water - Spring Water, 355 Ml",Невкусные,$96.89,false
+450,Radish - Pickled,Неизвестно,$78.95,true
+451,Energy Drink - Redbull 355ml,Вкусные,$59.52,true
+452,Flour - Teff,Невкусные,$19.91,false
+453,"Turkey - Breast, Smoked",Неизвестно,$22.22,true
+454,Vinegar - Red Wine,Неизвестно,$83.68,true
+455,Nut - Macadamia,Неизвестно,$64.78,false
+456,Truffle - Whole Black Peeled,Неизвестно,$65.31,true
+457,Pastry - Banana Muffin - Mini,Неизвестно,$90.69,true
+458,Steampan - Foil,Неизвестно,$44.66,false
+459,Table Cloth 144x90 White,Невкусные,$70.28,true
+460,Magnotta - Bel Paese White,Вкусные,$43.73,true
+461,Table Cloth 62x114 White,Вкусные,$89.20,true
+462,Icecream - Dstk Super Cone,Вкусные,$99.80,true
+463,Alize Red Passion,Неизвестно,$95.14,false
+464,Wine - Spumante Bambino White,Неизвестно,$57.84,false
+465,Chips - Potato Jalapeno,Неизвестно,$94.93,true
+466,Oil - Coconut,Вкусные,$85.01,true
+467,Towel - Roll White,Неизвестно,$37.26,false
+468,Smirnoff Green Apple Twist,Невкусные,$15.47,false
+469,Clams - Bay,Неизвестно,$92.08,true
+470,"Sauce - Soya, Dark",Невкусные,$25.97,false
+471,Anchovy Paste - 56 G Tube,Вкусные,$39.70,true
+472,Bread Cranberry Foccacia,Вкусные,$50.88,false
+473,Neckerchief Blck,Невкусные,$13.57,false
+474,Soup - Campbells Tomato Ravioli,Невкусные,$24.03,true
+475,Snapple Lemon Tea,Неизвестно,$31.02,false
+476,Cocoa Powder - Natural,Невкусные,$71.66,true
+477,Seedlings - Clamshell,Неизвестно,$18.19,true
+478,Eggplant - Regular,Невкусные,$40.29,true
+479,Okra,Невкусные,$58.39,true
+480,"Juice - Clamato, 341 Ml",Невкусные,$28.53,true
+481,Emulsifier,Неизвестно,$26.12,false
+482,Onions - Vidalia,Невкусные,$45.68,false
+483,Chocolate - Feathers,Вкусные,$84.04,true
+484,"Oil - Truffle, White",Вкусные,$74.56,false
+485,Olives - Kalamata,Неизвестно,$47.31,true
+486,"Clams - Littleneck, Whole",Невкусные,$87.66,true
+487,Wine - Shiraz South Eastern,Неизвестно,$38.20,true
+488,Wine - Cave Springs Dry Riesling,Вкусные,$43.16,true
+489,Muffin - Mix - Strawberry Rhubarb,Невкусные,$17.34,true
+490,Cheese - Brick With Pepper,Вкусные,$74.56,false
+491,Pan Grease,Вкусные,$12.31,false
+492,"Pasta - Rotini, Colour, Dry",Вкусные,$91.72,true
+493,"Salmon - Atlantic, Skin On",Неизвестно,$15.01,false
+494,Spinach - Frozen,Неизвестно,$92.07,false
+495,"Nut - Pecan, Halves",Неизвестно,$78.17,false
+496,Towels - Paper / Kraft,Неизвестно,$38.46,false
+497,Carbonated Water - Cherry,Неизвестно,$35.34,true
+498,Caviar - Salmon,Вкусные,$93.35,false
+499,Apple - Northern Spy,Неизвестно,$71.81,false
+500,Figs,Вкусные,$45.62,false
+501,Beer - Muskoka Cream Ale,Неизвестно,$59.92,false
+502,Brandy Apricot,Невкусные,$76.11,false
+503,Wine - Placido Pinot Grigo,Неизвестно,$63.20,true
+504,Bonito Flakes - Toku Katsuo,Вкусные,$76.79,false
+505,Squash - Sunburst,Невкусные,$11.45,false
+506,Bagel - Everything Presliced,Невкусные,$62.89,false
+507,Almonds Ground Blanched,Неизвестно,$60.50,false
+508,Soup Campbells Mexicali Tortilla,Неизвестно,$19.15,true
+509,Venison - Liver,Неизвестно,$23.30,true
+510,Pork - Inside,Невкусные,$58.66,false
+511,"Melon - Watermelon, Seedless",Неизвестно,$39.25,true
+512,Salmon - Fillets,Невкусные,$46.05,true
+513,Milk - Buttermilk,Вкусные,$81.59,true
+514,Chinese Lemon Pork,Неизвестно,$37.81,true
+515,"Beef - Outside, Round",Неизвестно,$82.24,true
+516,Bread - Ciabatta Buns,Невкусные,$62.43,true
+517,Muffin Puck Ww Carrot,Невкусные,$93.75,true
+518,Rootbeer,Вкусные,$37.53,false
+519,Vaccum Bag - 14x20,Неизвестно,$50.39,false
+520,Pate - Cognac,Невкусные,$41.62,true
+521,Beans - Fava Fresh,Вкусные,$33.91,true
+522,"Red Snapper - Fresh, Whole",Невкусные,$58.12,false
+523,Cheese - Goat,Невкусные,$11.64,false
+524,Table Cloth 81x81 Colour,Неизвестно,$89.23,true
+525,Tomatillo,Вкусные,$12.37,false
+526,Muffin Hinge - 211n,Неизвестно,$88.00,false
+527,Icecream - Dibs,Вкусные,$88.85,false
+528,Chips Potato Reg 43g,Невкусные,$67.15,false
+529,Juice - Apple 284ml,Вкусные,$54.54,false
+530,Coffee - Dark Roast,Невкусные,$81.49,true
+531,Tomato - Peeled Italian Canned,Неизвестно,$24.43,true
+532,Wine - Gewurztraminer Pierre,Невкусные,$10.00,false
+533,Pate - Cognac,Невкусные,$10.55,false
+534,Oyster - In Shell,Невкусные,$33.55,true
+535,"Iced Tea - Lemon, 340ml",Вкусные,$98.07,false
+536,Tea - English Breakfast,Неизвестно,$66.35,false
+537,Melon - Cantaloupe,Вкусные,$47.97,false
+538,Island Oasis - Wildberry,Невкусные,$31.52,true
+539,Seabream Whole Farmed,Неизвестно,$69.72,false
+540,"Chocolate - Semi Sweet, Calets",Вкусные,$25.88,true
+541,Wine - Domaine Boyar Royal,Неизвестно,$95.03,false
+542,Beer - Labatt Blue,Невкусные,$73.51,true
+543,Wine - Two Oceans Cabernet,Невкусные,$16.87,false
+544,Sauce - Vodka Blush,Вкусные,$70.00,false
+545,Beef Striploin Aaa,Неизвестно,$89.83,false
+546,Cheese - Brick With Pepper,Невкусные,$50.25,false
+547,Grapefruit - White,Вкусные,$92.61,false
+548,Triple Sec - Mcguinness,Неизвестно,$69.29,true
+549,Soap - Hand Soap,Вкусные,$87.40,false
+550,Grapes - Black,Вкусные,$76.09,true
+551,Shallots,Вкусные,$85.05,true
+552,Wine - Rioja Campo Viejo,Вкусные,$82.72,false
+553,Soup Campbells - Tomato Bisque,Неизвестно,$70.52,false
+554,"Yogurt - Banana, 175 Gr",Вкусные,$79.49,true
+555,Wine - Redchard Merritt,Вкусные,$30.32,true
+556,"Beef - Rib Roast, Capless",Невкусные,$67.67,false
+557,Kirsch - Schloss,Неизвестно,$84.11,false
+558,Appetizer - Crab And Brie,Вкусные,$59.14,false
+559,Cream Of Tartar,Вкусные,$28.61,false
+560,Puree - Pear,Невкусные,$55.88,false
+561,Chicken - Ground,Вкусные,$64.84,false
+562,Jolt Cola - Electric Blue,Невкусные,$27.59,false
+563,"Tray - Foam, Square 4 - S",Вкусные,$21.36,true
+564,Longos - Assorted Sandwich,Неизвестно,$89.68,true
+565,Smirnoff Green Apple Twist,Невкусные,$91.40,false
+566,Salmon Atl.whole 8 - 10 Lb,Неизвестно,$54.75,false
+567,Crackers - Water,Неизвестно,$30.30,true
+568,Parsnip,Вкусные,$61.53,false
+569,Radish - Pickled,Неизвестно,$36.69,true
+570,Muffin Carrot - Individual,Неизвестно,$58.70,true
+571,Wine - Magnotta - Cab Franc,Вкусные,$11.72,false
+572,"Sugar - Brown, Individual",Невкусные,$23.86,true
+573,Spice - Paprika,Невкусные,$28.25,true
+574,Wine - Balbach Riverside,Вкусные,$45.67,false
+575,Veal - Kidney,Невкусные,$21.18,true
+576,"Lemonade - Mandarin, 591 Ml",Невкусные,$96.87,true
+577,Pickle - Dill,Вкусные,$29.39,false
+578,Shrimp - Tiger 21/25,Вкусные,$10.86,true
+579,"Pasta - Cannelloni, Sheets, Fresh",Неизвестно,$83.67,true
+580,Beef - Top Butt Aaa,Неизвестно,$34.92,true
+581,Pectin,Вкусные,$79.01,false
+582,Fiddlehead - Frozen,Вкусные,$53.14,false
+583,"Juice - V8, Tomato",Вкусные,$72.24,true
+584,Shrimp - 31/40,Вкусные,$75.11,false
+585,Glucose,Невкусные,$37.36,true
+586,Soap - Mr.clean Floor Soap,Невкусные,$80.00,true
+587,Soup Bowl Clear 8oz92008,Невкусные,$67.91,false
+588,Corn Kernels - Frozen,Неизвестно,$67.20,true
+589,"Oil - Truffle, White",Неизвестно,$78.05,true
+590,"Soup - Knorr, Country Bean",Неизвестно,$12.11,false
+591,"Nut - Walnut, Chopped",Неизвестно,$60.82,false
+592,Wine - Cabernet Sauvignon,Невкусные,$99.84,false
+593,Foil Wrap,Вкусные,$14.09,false
+594,Longos - Chicken Wings,Неизвестно,$99.28,false
+595,Okra,Невкусные,$32.23,false
+596,Quail - Jumbo,Неизвестно,$86.08,true
+597,Mudslide,Неизвестно,$73.11,true
+598,Bananas,Невкусные,$37.16,true
+599,Latex Rubber Gloves Size 9,Неизвестно,$92.77,true
+600,External Supplier,Неизвестно,$36.59,true
+601,Contreau,Вкусные,$61.45,false
+602,Snapple - Iced Tea Peach,Вкусные,$64.65,true
+603,Cheese - Asiago,Неизвестно,$81.34,false
+604,"Veal - Leg, Provimi - 50 Lb Max",Невкусные,$13.66,true
+605,Wine - Sauvignon Blanc,Невкусные,$93.31,true
+606,Sobe - Orange Carrot,Вкусные,$72.79,true
+607,Wine - Stoneliegh Sauvignon,Вкусные,$13.83,true
+608,"Tortillas - Flour, 8",Неизвестно,$53.50,true
+609,Foam Cup 6 Oz,Вкусные,$93.06,true
+610,"Oil - Food, Lacquer Spray",Вкусные,$72.76,true
+611,White Fish - Filets,Неизвестно,$48.95,false
+612,"Potatoes - Purple, Organic",Неизвестно,$54.77,false
+613,"Wine - Red, Pelee Island Merlot",Вкусные,$44.43,true
+614,Garbage Bag - Clear,Неизвестно,$80.65,true
+615,Breadfruit,Неизвестно,$64.61,false
+616,Wonton Wrappers,Невкусные,$42.88,false
+617,Sugar Thermometer,Неизвестно,$70.09,true
+618,Tea - Earl Grey,Невкусные,$50.78,true
+619,Yeast Dry - Fleischman,Невкусные,$75.84,false
+620,Dill Weed - Fresh,Невкусные,$98.27,true
+621,Cotton Wet Mop 16 Oz,Вкусные,$74.92,true
+622,Wiberg Cure,Вкусные,$22.89,false
+623,"Wine - Red, Cabernet Merlot",Неизвестно,$34.63,true
+624,Beef Flat Iron Steak,Вкусные,$55.86,true
+625,Lettuce - Frisee,Неизвестно,$79.48,true
+626,"Pesto - Primerba, Paste",Невкусные,$51.11,false
+627,Wine - Champagne Brut Veuve,Невкусные,$65.95,true
+628,Bread - Raisin Walnut Oval,Неизвестно,$94.54,false
+629,Wine - Duboeuf Beaujolais,Неизвестно,$70.00,true
+630,Carbonated Water - Raspberry,Невкусные,$30.27,true
+631,Tomatoes - Grape,Неизвестно,$93.17,true
+632,Wine - Chenin Blanc K.w.v.,Невкусные,$31.18,true
+633,Dish Towel,Вкусные,$88.02,true
+634,Beer - Corona,Вкусные,$40.68,true
+635,Rice - Wild,Вкусные,$39.92,false
+636,Steampan - Foil,Неизвестно,$95.00,true
+637,"Champagne - Brights, Dry",Невкусные,$63.06,true
+638,Wine - Gewurztraminer Pierre,Неизвестно,$10.39,false
+639,"Pepper - White, Ground",Невкусные,$49.63,false
+640,Cream Of Tartar,Неизвестно,$40.81,true
+641,Wheat - Soft Kernal Of Wheat,Вкусные,$75.68,true
+642,Allspice - Jamaican,Неизвестно,$67.19,true
+643,"Lamb - Loin, Trimmed, Boneless",Вкусные,$64.95,false
+644,Carbonated Water - Lemon Lime,Вкусные,$26.10,true
+645,Rabbit - Saddles,Неизвестно,$36.41,false
+646,Turkey Tenderloin Frozen,Вкусные,$28.87,true
+647,Numi - Assorted Teas,Неизвестно,$91.64,false
+648,Fireball Whisky,Неизвестно,$15.04,false
+649,Cherries - Fresh,Неизвестно,$73.38,true
+650,"Wine - Red, Mosaic Zweigelt",Невкусные,$71.05,true
+651,Bread - Crusty Italian Poly,Невкусные,$80.46,true
+652,Sugar - Icing,Вкусные,$54.18,true
+653,Pepper - Red Thai,Неизвестно,$59.45,true
+654,Muffin - Zero Transfat,Невкусные,$72.84,true
+655,Garam Marsala,Невкусные,$93.02,true
+656,Nantucket - Kiwi Berry Cktl.,Невкусные,$27.41,false
+657,Towel Multifold,Невкусные,$79.27,false
+658,Bread Base - Gold Formel,Невкусные,$30.11,true
+659,"Wine - White, Ej",Невкусные,$53.90,true
+660,"Rum - Spiced, Captain Morgan",Невкусные,$88.79,true
+661,"Oil - Truffle, Black",Неизвестно,$41.08,true
+662,Foil Wrap,Неизвестно,$27.75,true
+663,Cheese Cloth No 60,Невкусные,$94.72,false
+664,General Purpose Trigger,Неизвестно,$50.98,true
+665,Chinese Foods - Thick Noodles,Невкусные,$76.39,false
+666,Mix - Cocktail Ice Cream,Неизвестно,$79.38,false
+667,Sauce - Balsamic Viniagrette,Невкусные,$94.64,false
+668,Sauce - Mint,Вкусные,$38.69,false
+669,Pears - Bosc,Вкусные,$58.92,false
+670,Beef - Tenderloin Tails,Неизвестно,$62.30,false
+671,Shrimp - Prawn,Невкусные,$85.94,false
+672,Orange Roughy 4/6 Oz,Неизвестно,$86.12,false
+673,"Pork - Chop, Frenched",Невкусные,$30.35,true
+674,Wine - German Riesling,Неизвестно,$73.79,true
+675,Pepper Squash,Невкусные,$31.84,true
+676,Cheese - Provolone,Невкусные,$89.19,false
+677,Sour Puss Raspberry,Невкусные,$25.03,false
+678,Basil - Thai,Вкусные,$33.88,true
+679,Tuna - Fresh,Невкусные,$62.75,false
+680,Veal - Slab Bacon,Невкусные,$48.99,false
+681,Crab - Meat,Вкусные,$70.15,true
+682,Beef - Inside Round,Неизвестно,$95.16,true
+683,"Flour - Buckwheat, Dark",Вкусные,$71.68,true
+684,Table Cloth 91x91 Colour,Невкусные,$66.62,true
+685,Beef - Tenderloin - Aa,Невкусные,$53.67,true
+686,Tobasco Sauce,Вкусные,$88.63,false
+687,Soup - Campbells Mac N Cheese,Невкусные,$84.51,false
+688,Wine - Savigny - Les - Beaune,Вкусные,$23.33,false
+689,Hagen Daza - Dk Choocolate,Неизвестно,$34.17,true
+690,Veal - Inside,Невкусные,$84.69,false
+691,"Soup - Beef Conomme, Dry",Вкусные,$52.17,false
+692,Mousse - Banana Chocolate,Вкусные,$43.75,true
+693,Cabbage - Savoy,Вкусные,$86.75,false
+694,Soup - Campbells Pasta Fagioli,Неизвестно,$66.14,true
+695,"Cod - Salted, Boneless",Невкусные,$75.51,false
+696,English Muffin,Неизвестно,$97.82,true
+697,Steampan - Foil,Вкусные,$37.39,true
+698,"Mop Head - Cotton, 24 Oz",Неизвестно,$45.93,false
+699,Crackers - Melba Toast,Невкусные,$41.12,true
+700,"Wine - Red, Cooking",Неизвестно,$13.42,false
+701,Nescafe - Frothy French Vanilla,Неизвестно,$69.54,false
+702,Limes,Вкусные,$31.57,true
+703,Gooseberry,Невкусные,$26.17,false
+704,"Asparagus - White, Canned",Невкусные,$92.42,false
+705,Wine - Piper Heidsieck Brut,Невкусные,$36.38,false
+706,Beef - Kobe Striploin,Вкусные,$29.13,false
+707,Sage - Rubbed,Вкусные,$11.32,true
+708,"Wine - White, Gewurtzraminer",Вкусные,$46.94,false
+709,Smoked Paprika,Неизвестно,$18.74,true
+710,Versatainer Nc - 9388,Вкусные,$50.10,false
+711,Squid U5 - Thailand,Неизвестно,$51.83,false
+712,"Turkey - Whole, Fresh",Неизвестно,$97.54,true
+713,Juice - Ocean Spray Cranberry,Невкусные,$86.99,false
+714,"Bread - Roll, Calabrese",Неизвестно,$17.41,false
+715,Wine - Magnotta - Belpaese,Неизвестно,$84.58,false
+716,Veal - Sweetbread,Неизвестно,$18.20,true
+717,Pineapple - Golden,Неизвестно,$50.52,false
+718,Gherkin,Неизвестно,$11.44,false
+719,Puree - Raspberry,Неизвестно,$21.81,true
+720,Lettuce - Belgian Endive,Вкусные,$93.27,true
+721,Raisin - Dark,Неизвестно,$35.88,true
+722,"Fish - Scallops, Cold Smoked",Неизвестно,$28.17,false
+723,Squeeze Bottle,Невкусные,$93.22,true
+724,Bacardi Breezer - Tropical,Неизвестно,$57.31,false
+725,Steampan - Lid For Half Size,Невкусные,$35.22,false
+726,Beans - Fava Fresh,Вкусные,$77.34,true
+727,Pie Shell - 9,Невкусные,$83.24,true
+728,Initation Crab Meat,Невкусные,$40.32,false
+729,Eggwhite Frozen,Невкусные,$38.47,true
+730,Pork - Liver,Вкусные,$63.06,true
+731,Cassis,Вкусные,$90.33,false
+732,The Pop Shoppe - Black Cherry,Неизвестно,$48.01,true
+733,Ham - Virginia,Неизвестно,$76.74,true
+734,Prunes - Pitted,Неизвестно,$73.14,true
+735,Soup Campbells Split Pea And Ham,Невкусные,$84.17,true
+736,Bread - Corn Muffaletta,Невкусные,$17.53,true
+737,"Pasta - Fettuccine, Egg, Fresh",Невкусные,$51.87,false
+738,Nantucket - Kiwi Berry Cktl.,Неизвестно,$94.91,false
+739,Pike - Frozen Fillet,Вкусные,$32.35,false
+740,Bread - Granary Small Pull,Невкусные,$10.73,false
+741,Pepper - Cayenne,Невкусные,$59.02,false
+742,Flower - Commercial Bronze,Неизвестно,$33.24,true
+743,Star Fruit,Вкусные,$11.94,false
+744,Dip - Tapenade,Невкусные,$65.46,true
+745,Seedlings - Clamshell,Вкусные,$90.63,false
+746,Bagels Poppyseed,Невкусные,$68.30,false
+747,Momiji Oroshi Chili Sauce,Неизвестно,$29.35,true
+748,Spice - Pepper Portions,Неизвестно,$93.80,false
+749,"Lamb - Whole, Frozen",Невкусные,$85.90,false
+750,Buffalo - Tenderloin,Вкусные,$50.33,true
+751,"Beef - Rib Roast, Capless",Вкусные,$42.83,true
+752,Chocolate - Semi Sweet,Вкусные,$70.88,true
+753,Star Fruit,Вкусные,$61.38,false
+754,Tia Maria,Вкусные,$43.90,true
+755,"Pasta - Linguini, Dry",Невкусные,$82.27,false
+756,Catfish - Fillets,Вкусные,$77.91,true
+757,Pineapple - Golden,Вкусные,$23.87,false
+758,Garbag Bags - Black,Невкусные,$10.93,true
+759,Goulash Seasoning,Невкусные,$50.25,true
+760,Mushroom - King Eryingii,Вкусные,$27.28,false
+761,"Wine - Red, Colio Cabernet",Вкусные,$19.82,true
+762,Chutney Sauce,Невкусные,$38.46,false
+763,V8 - Vegetable Cocktail,Вкусные,$56.21,false
+764,Sesame Seed,Неизвестно,$60.93,true
+765,Dill Weed - Dry,Неизвестно,$12.87,false
+766,"Wine - White, French Cross",Неизвестно,$80.07,false
+767,The Pop Shoppe - Cream Soda,Невкусные,$18.64,false
+768,Pecan Raisin - Tarts,Неизвестно,$17.24,false
+769,Ecolab - Power Fusion,Неизвестно,$25.47,true
+770,Basil - Fresh,Вкусные,$92.96,true
+771,Oxtail - Cut,Вкусные,$17.00,true
+772,Coffee - Espresso,Невкусные,$11.65,false
+773,Wasabi Paste,Неизвестно,$63.56,false
+774,Grapefruit - Pink,Невкусные,$16.10,false
+775,Straws - Cocktale,Неизвестно,$90.83,false
+776,Gatorade - Fruit Punch,Неизвестно,$96.44,false
+777,Paste - Black Olive,Невкусные,$31.92,false
+778,"Melon - Watermelon, Seedless",Невкусные,$36.49,false
+779,Cheese - La Sauvagine,Вкусные,$42.35,true
+780,Rabbit - Frozen,Неизвестно,$79.23,false
+781,Blouse / Shirt / Sweater,Неизвестно,$42.24,true
+782,Cookie Dough - Double,Неизвестно,$53.42,false
+783,Lamb Rack Frenched Australian,Невкусные,$72.73,true
+784,"Nut - Almond, Blanched, Sliced",Неизвестно,$55.47,true
+785,Flour - Strong,Невкусные,$77.85,false
+786,"7up Diet, 355 Ml",Неизвестно,$72.23,false
+787,"Vermouth - White, Cinzano",Невкусные,$71.87,true
+788,Beer - Molson Excel,Невкусные,$94.35,false
+789,"Wine - Magnotta, White",Невкусные,$31.85,false
+790,Bag - Regular Kraft 20 Lb,Вкусные,$79.55,false
+791,Glaze - Apricot,Вкусные,$99.06,false
+792,Fond - Neutral,Неизвестно,$21.82,true
+793,Tea - Orange Pekoe,Невкусные,$98.96,true
+794,Sea Bass - Whole,Невкусные,$66.43,true
+795,Juice - V8 Splash,Невкусные,$79.35,true
+796,Turnip - Wax,Вкусные,$95.27,false
+797,Onions Granulated,Вкусные,$80.43,false
+798,Glass - Juice Clear 5oz 55005,Неизвестно,$30.34,true
+799,Cake - Mini Potato Pancake,Вкусные,$75.03,false
+800,Coffee - Ristretto Coffee Capsule,Неизвестно,$98.05,true
+801,Wine - Alsace Gewurztraminer,Невкусные,$11.76,true
+802,"Nut - Cashews, Whole, Raw",Неизвестно,$95.56,false
+803,Anisette - Mcguiness,Неизвестно,$95.13,true
+804,Star Fruit,Невкусные,$41.07,false
+805,Nantucket - Pomegranate Pear,Вкусные,$29.65,false
+806,The Pop Shoppe Pinapple,Невкусные,$18.79,true
+807,Carbonated Water - Orange,Невкусные,$37.08,false
+808,Table Cloth 62x114 White,Вкусные,$38.88,true
+809,"Pepper - Julienne, Frozen",Невкусные,$32.70,false
+810,Longos - Lasagna Beef,Неизвестно,$67.62,true
+811,Sugar - Palm,Неизвестно,$17.05,false
+812,"Oranges - Navel, 72",Невкусные,$16.76,false
+813,Lettuce - Romaine,Вкусные,$60.84,false
+814,Nantucket Apple Juice,Неизвестно,$94.58,false
+815,Beer - Paulaner Hefeweisse,Невкусные,$96.96,true
+816,Pasta - Cheese / Spinach Bauletti,Невкусные,$93.80,true
+817,Wine - Riesling Dr. Pauly,Невкусные,$82.83,false
+818,Wine - Segura Viudas Aria Brut,Невкусные,$67.32,false
+819,Sour Puss Sour Apple,Невкусные,$23.88,false
+820,Pork - European Side Bacon,Неизвестно,$48.86,true
+821,Wine - Chablis J Moreau Et Fils,Неизвестно,$35.40,false
+822,Cardamon Ground,Вкусные,$12.61,false
+823,Chocolate - Feathers,Невкусные,$76.56,false
+824,Cheese - Marble,Вкусные,$60.12,false
+825,Lettuce - Boston Bib,Неизвестно,$98.82,true
+826,Beer - Upper Canada Light,Вкусные,$45.35,false
+827,Tilapia - Fillets,Неизвестно,$68.26,true
+828,Energy Drink - Franks Pineapple,Вкусные,$59.57,false
+829,Sugar - Fine,Неизвестно,$26.20,true
+830,"Cheese - Boursin, Garlic / Herbs",Вкусные,$83.63,false
+831,"Lid - 10,12,16 Oz",Неизвестно,$96.12,true
+832,Cookie - Oreo 100x2,Неизвестно,$12.83,true
+833,"Cod - Salted, Boneless",Вкусные,$81.17,true
+834,Scallops - Live In Shell,Неизвестно,$44.76,true
+835,"Stock - Beef, Brown",Неизвестно,$58.01,false
+836,Appetizer - Seafood Assortment,Вкусные,$86.27,true
+837,"Stock - Beef, White",Невкусные,$34.69,false
+838,Dr. Pepper - 355ml,Неизвестно,$24.62,true
+839,Pastry - Choclate Baked,Вкусные,$62.07,true
+840,"Trout - Rainbow, Frozen",Невкусные,$83.95,true
+841,Pork - Inside,Вкусные,$91.40,false
+842,Cheese Cloth No 100,Невкусные,$32.58,false
+843,Gatorade - Lemon Lime,Неизвестно,$50.28,false
+844,"Beef - Ground, Extra Lean, Fresh",Вкусные,$71.34,true
+845,"Asparagus - White, Canned",Вкусные,$77.28,true
+846,"Oranges - Navel, 72",Невкусные,$20.79,false
+847,"Mop Head - Cotton, 24 Oz",Невкусные,$43.97,false
+848,"Oil - Shortening,liqud, Fry",Вкусные,$84.12,false
+849,Piping - Bags Quizna,Неизвестно,$30.07,true
+850,Lid - 3oz Med Rec,Неизвестно,$91.33,true
+851,"Syrup - Golden, Lyles",Вкусные,$21.24,false
+852,Campari,Невкусные,$81.79,true
+853,Kellogs Cereal In A Cup,Неизвестно,$56.69,true
+854,Bread Fig And Almond,Неизвестно,$65.41,false
+855,Table Cloth 62x114 White,Вкусные,$50.22,true
+856,"Syrup - Monin, Irish Cream",Невкусные,$58.86,true
+857,Veal - Osso Bucco,Вкусные,$48.28,true
+858,"Star Anise, Whole",Вкусные,$13.25,false
+859,Bacardi Breezer - Tropical,Невкусные,$70.84,false
+860,Sausage - Breakfast,Невкусные,$61.49,true
+861,Ham - Virginia,Вкусные,$16.23,false
+862,Beef Wellington,Вкусные,$84.23,false
+863,"Basil - Dry, Rubbed",Невкусные,$80.40,true
+864,Wine - Rosso Del Veronese Igt,Неизвестно,$16.59,false
+865,"Wine - Sherry Dry Sack, William",Вкусные,$20.13,false
+866,Zucchini - Green,Невкусные,$10.79,false
+867,Broccoli - Fresh,Невкусные,$54.25,true
+868,Eggplant - Baby,Вкусные,$64.10,false
+869,Dried Figs,Вкусные,$65.94,true
+870,"Beans - Navy, Dry",Вкусные,$36.95,false
+871,Lettuce - Red Leaf,Неизвестно,$91.09,true
+872,Sauce - Plum,Неизвестно,$68.43,true
+873,Beer - Original Organic Lager,Неизвестно,$81.06,false
+874,Otomegusa Dashi Konbu,Вкусные,$42.51,false
+875,Cookies - Assorted,Невкусные,$76.65,false
+876,Sauce - Salsa,Неизвестно,$57.30,false
+877,Cup - Translucent 7 Oz Clear,Вкусные,$64.08,true
+878,"Pasta - Spaghetti, Dry",Неизвестно,$49.64,false
+879,Vector Energy Bar,Невкусные,$40.34,false
+880,Lettuce - Romaine,Неизвестно,$18.60,true
+881,Iced Tea Concentrate,Неизвестно,$35.58,false
+882,Milk Powder,Невкусные,$91.00,false
+883,Table Cloth 54x54 White,Невкусные,$57.73,false
+884,Cake - Cheese Cake 9 Inch,Вкусные,$29.68,false
+885,Steampan - Lid For Half Size,Неизвестно,$75.14,false
+886,Vodka - Moskovskaya,Неизвестно,$44.02,true
+887,"Cheese - Mozzarella, Shredded",Невкусные,$10.85,false
+888,Bacon Strip Precooked,Невкусные,$68.28,true
+889,"Lamb - Loin, Trimmed, Boneless",Вкусные,$47.38,true
+890,Asparagus - Mexican,Невкусные,$62.80,true
+891,Wine - Casillero Deldiablo,Невкусные,$89.07,false
+892,Sardines,Невкусные,$13.52,false
+893,Breakfast Quesadillas,Невкусные,$28.32,false
+894,Squash - Butternut,Невкусные,$83.42,false
+895,"Beans - Long, Chinese",Невкусные,$93.31,true
+896,"Wine - Harrow Estates, Vidal",Вкусные,$38.86,true
+897,Chocolate Bar - Coffee Crisp,Невкусные,$45.12,true
+898,Juice - Orange 1.89l,Невкусные,$67.10,true
+899,"Cod - Salted, Boneless",Неизвестно,$87.78,true
+900,Isomalt,Вкусные,$27.58,true
+901,Radish - Pickled,Невкусные,$33.25,false
+902,Wine - Baron De Rothschild,Неизвестно,$57.60,true
+903,Onion Powder,Вкусные,$33.62,true
+904,"Sparkling Wine - Rose, Freixenet",Вкусные,$28.11,false
+905,Muffin Mix - Chocolate Chip,Невкусные,$41.47,false
+906,Lettuce - Spring Mix,Невкусные,$15.93,false
+907,Wiberg Super Cure,Неизвестно,$20.38,true
+908,Broom And Brush Rack Black,Вкусные,$14.64,false
+909,Soup Campbells - Tomato Bisque,Вкусные,$87.22,false
+910,Salt - Table,Невкусные,$36.30,true
+911,"Crab - Claws, 26 - 30",Невкусные,$95.66,false
+912,Pepper - Scotch Bonnet,Неизвестно,$29.62,true
+913,Potatoes - Yukon Gold 5 Oz,Невкусные,$22.34,false
+914,"Juice - Apple, 500 Ml",Неизвестно,$13.30,false
+915,Spice - Greek 1 Step,Неизвестно,$88.62,true
+916,Pork Ham Prager,Неизвестно,$10.32,true
+917,Horseradish - Prepared,Неизвестно,$78.69,true
+918,Pastry - Butterscotch Baked,Невкусные,$28.17,true
+919,"Veal - Leg, Provimi - 50 Lb Max",Вкусные,$58.37,true
+920,Ice Cream Bar - Hageen Daz To,Неизвестно,$78.79,false
+921,Eggplant Italian,Вкусные,$40.58,false
+922,Butter - Unsalted,Вкусные,$99.27,false
+923,"Beef - Bones, Marrow",Невкусные,$53.18,false
+924,Sugar - Individual Portions,Невкусные,$39.76,false
+925,"Pork - Back, Long Cut, Boneless",Неизвестно,$21.52,false
+926,Sword Pick Asst,Вкусные,$23.32,true
+927,Venison - Striploin,Невкусные,$67.52,true
+928,Chevril,Неизвестно,$88.58,false
+929,Miso Paste White,Невкусные,$88.36,false
+930,Kiwi,Невкусные,$37.80,false
+931,Straws - Cocktale,Неизвестно,$66.65,false
+932,Banana - Leaves,Вкусные,$41.17,true
+933,Cotton Wet Mop 16 Oz,Вкусные,$38.37,false
+934,Soup - Campbells Beef Strogonoff,Вкусные,$63.04,false
+935,Table Cloth 144x90 White,Невкусные,$35.52,true
+936,"Juice - Apple, 1.36l",Вкусные,$69.93,true
+937,"Wine - White, Pelee Island",Неизвестно,$81.33,false
+938,Pepper Squash,Невкусные,$15.31,true
+939,"Rosemary - Primerba, Paste",Вкусные,$29.49,true
+940,"Cheese - Woolwich Goat, Log",Вкусные,$27.24,true
+941,Jameson - Irish Whiskey,Неизвестно,$61.24,true
+942,Fiddlehead - Frozen,Неизвестно,$90.64,false
+943,"Beans - Black Bean, Dry",Вкусные,$36.16,true
+944,Cake - Cake Sheet Macaroon,Вкусные,$81.50,true
+945,Table Cloth 91x91 Colour,Неизвестно,$15.29,false
+946,"Olives - Green, Pitted",Вкусные,$81.68,true
+947,Steam Pan - Half Size Deep,Неизвестно,$34.06,true
+948,Aspic - Amber,Невкусные,$48.60,true
+949,Dried Cherries,Неизвестно,$39.76,true
+950,Bay Leaf Ground,Неизвестно,$71.76,false
+951,Sultanas,Невкусные,$10.66,true
+952,"Tendrils - Baby Pea, Organic",Неизвестно,$74.35,true
+953,Soup - Campbells Beef Noodle,Невкусные,$61.63,false
+954,"Split Peas - Green, Dry",Неизвестно,$15.56,true
+955,"Sprite, Diet - 355ml",Неизвестно,$10.96,true
+956,Sun - Dried Tomatoes,Невкусные,$57.78,false
+957,"Wine - Magnotta, White",Неизвестно,$81.33,false
+958,Chicken - Whole Roasting,Вкусные,$41.69,true
+959,Raspberries - Frozen,Невкусные,$26.50,false
+960,Bread - White Epi Baguette,Вкусные,$34.49,false
+961,Curry Paste - Green Masala,Вкусные,$78.09,false
+962,"Chicken - Leg, Boneless",Невкусные,$19.20,true
+963,"Chilli Paste, Ginger Garlic",Вкусные,$62.80,false
+964,"Turnip - White, Organic",Невкусные,$56.32,false
+965,Beans - Green,Невкусные,$22.66,true
+966,Chocolate Liqueur - Godet White,Вкусные,$93.66,false
+967,Vinegar - Red Wine,Невкусные,$44.75,false
+968,"Pasta - Spaghetti, Dry",Неизвестно,$64.68,false
+969,Lamb - Whole Head Off,Невкусные,$57.96,true
+970,Table Cloth 144x90 White,Неизвестно,$62.03,true
+971,"Wine - White, Colubia Cresh",Невкусные,$84.21,true
+972,Pork - Belly Fresh,Неизвестно,$29.11,true
+973,Sugar - Cubes,Неизвестно,$82.31,true
+974,Wine - Toasted Head,Неизвестно,$61.12,false
+975,"Soup - Canadian Pea, Dry Mix",Невкусные,$98.24,true
+976,Flower - Commercial Spider,Невкусные,$81.58,true
+977,Chips - Assorted,Неизвестно,$68.94,true
+978,Chicken - Livers,Невкусные,$80.23,false
+979,Wine - Chateau Timberlay,Невкусные,$96.81,true
+980,"Crush - Grape, 355 Ml",Невкусные,$29.61,true
+981,Leeks - Large,Вкусные,$81.53,true
+982,Garam Marsala,Неизвестно,$79.70,false
+983,Chicken Thigh - Bone Out,Вкусные,$81.44,false
+984,Wine - Savigny - Les - Beaune,Вкусные,$71.17,true
+985,Juice Peach Nectar,Неизвестно,$27.69,false
+986,Beets - Mini Golden,Вкусные,$61.00,true
+987,"Soup - Beef, Base Mix",Вкусные,$55.74,false
+988,Sauce - Mint,Неизвестно,$36.06,false
+989,Wasabi Powder,Невкусные,$13.25,false
+990,"Wine - White, Ej Gallo",Невкусные,$91.13,true
+991,Muffin Batt - Blueberry Passion,Вкусные,$44.39,false
+992,Crab - Meat Combo,Невкусные,$78.12,true
+993,Wooden Mop Handle,Вкусные,$85.66,false
+994,Veal - Liver,Вкусные,$14.30,true
+995,Potatoes - Yukon Gold 5 Oz,Вкусные,$77.62,true
+996,Amaretto,Вкусные,$35.60,true
+997,"Chicken - Leg, Boneless",Невкусные,$77.04,false
+998,Lettuce - Treviso,Невкусные,$46.20,false
+999,Beef - Inside Round,Невкусные,$55.05,true
+1000,"Pail - 4l White, With Handle",Вкусные,$48.17,false

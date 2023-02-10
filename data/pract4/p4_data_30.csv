@@ -1,0 +1,1001 @@
+ID,Name,Category,Count,Price,OutOfDate,WithDiscount
+1,"Fish - Atlantic Salmon, Cold",D,16,$60.49,true,true
+2,Sauce - Cranberry,B,26,$19.52,true,true
+3,Pan Grease,D,22,$20.87,,true
+4,Coffee Guatemala Dark,A,10,$31.81,,true
+5,Wine - Carmenere Casillero Del,,22,$75.15,false,
+6,"Olives - Black, Pitted",,5,$95.04,,
+7,Tea Leaves - Oolong,B,17,$37.78,,
+8,Wine - Prem Select Charddonany,A,7,$26.36,false,false
+9,Corn Meal,C,15,$95.68,false,false
+10,Ginger - Fresh,A,29,$70.55,false,
+11,"Oranges - Navel, 72",A,38,$40.44,,true
+12,Cocoa Butter,C,9,$62.20,false,false
+13,Puree - Raspberry,C,41,$19.76,true,false
+14,"Tart Shells - Sweet, 2",D,8,$52.89,true,false
+15,Flour - Fast / Rapid,B,12,$29.35,true,true
+16,"Pasta - Penne, Rigate, Dry",,19,$40.44,false,
+17,Sherbet - Raspberry,,50,$61.48,true,false
+18,Wine - Stoneliegh Sauvignon,D,25,$83.43,true,true
+19,Soup Campbells Mexicali Tortilla,B,45,$5.32,false,true
+20,Muffin Mix - Morning Glory,D,3,$31.60,false,true
+21,Extract - Lemon,D,35,$8.38,false,false
+22,Toothpick Frilled,,1,$26.46,,true
+23,Ice Cream Bar - Hageen Daz To,C,25,$9.88,false,false
+24,"Beef - Bones, Marrow",D,21,$57.38,true,false
+25,Beer - Pilsner Urquell,B,39,$32.22,true,
+26,Vinegar - Rice,,32,$71.41,true,
+27,Juice - Orange,,5,$10.33,false,
+28,"Beef - Ox Tail, Frozen",C,23,$47.69,false,true
+29,Icecream - Dibs,A,15,$12.65,false,false
+30,Straw - Regular,A,45,$66.67,,true
+31,Sardines,A,14,$22.64,true,true
+32,Ginger - Fresh,,35,$52.95,,
+33,Flour - Semolina,B,27,$31.07,true,false
+34,Rabbit - Legs,,8,$33.52,false,
+35,"Dill - Primerba, Paste",B,2,$75.93,true,
+36,"Soup - Knorr, Veg / Beef",A,12,$42.69,,true
+37,Island Oasis - Pina Colada,C,8,$5.34,true,
+38,Juice - Lemon,C,35,$59.54,false,true
+39,Basil - Fresh,,5,$67.46,false,false
+40,Beer - Upper Canada Lager,,2,$5.74,,
+41,"Trout - Rainbow, Frozen",D,36,$84.75,true,false
+42,Butter - Salted,A,25,$17.90,false,
+43,Bar - Granola Trail Mix Fruit Nut,B,33,$24.72,true,false
+44,Bread - Crusty Italian Poly,D,28,$77.40,false,
+45,Ice Cream - Life Savers,D,5,$47.10,true,
+46,Hot Choc Vending,B,31,$72.27,,false
+47,Lettuce Romaine Chopped,,8,$14.32,false,false
+48,Pork - Ham Hocks - Smoked,B,42,$92.88,,true
+49,General Purpose Trigger,B,30,$46.26,true,true
+50,Towel Dispenser,,33,$18.55,true,false
+51,Sausage - Liver,B,39,$37.78,false,true
+52,Soap - Pine Sol Floor Cleaner,C,22,$20.57,,false
+53,Wine - Riesling Alsace Ac 2001,C,2,$80.40,,false
+54,"Yogurt - Raspberry, 175 Gr",B,3,$71.83,,true
+55,Beer - Blue Light,,14,$90.61,false,true
+56,Oil - Macadamia,A,29,$7.90,true,
+57,Sloe Gin - Mcguinness,D,23,$61.30,true,true
+58,Shopper Bag - S - 4,,27,$22.86,true,true
+59,Contreau,B,41,$48.85,true,false
+60,"Tart Shells - Barquettes, Savory",D,50,$43.71,false,true
+61,"Olives - Black, Pitted",A,49,$7.49,true,true
+62,The Pop Shoppe - Black Cherry,C,13,$73.18,true,true
+63,Carbonated Water - Blackberry,C,17,$33.14,false,true
+64,Bread Cranberry Foccacia,C,31,$69.65,false,true
+65,Gatorade - Lemon Lime,C,12,$56.99,false,false
+66,Wine - Sake,,34,$70.87,false,false
+67,Parsnip,A,48,$39.83,true,false
+68,Wine - Stoneliegh Sauvignon,D,7,$98.42,false,
+69,Cranberry Foccacia,,10,$33.22,false,false
+70,Wine - Chianti Classico Riserva,,12,$88.18,false,true
+71,Wine - Chablis 2003 Champs,A,21,$78.07,false,
+72,"Tray - Foam, Square 4 - S",A,15,$85.30,true,false
+73,Pastry - Mini French Pastries,B,50,$32.70,false,true
+74,Oven Mitt - 13 Inch,A,47,$69.07,true,false
+75,Wine - Delicato Merlot,,26,$10.43,false,true
+76,Garam Masala Powder,D,3,$85.79,,true
+77,Beef - Prime Rib Aaa,C,34,$77.67,true,
+78,"Soup - Campbells, Cream Of",B,38,$74.93,false,false
+79,"Cheese - Woolwich Goat, Log",,33,$47.07,true,
+80,Veal - Knuckle,D,50,$35.78,true,
+81,Sambuca - Opal Nera,D,33,$80.17,true,true
+82,Raspberries - Fresh,B,28,$64.59,true,
+83,Trout Rainbow Whole,C,18,$65.38,true,true
+84,Cookie Dough - Double,C,26,$28.01,false,true
+85,Jerusalem Artichoke,A,32,$34.41,false,false
+86,Ice Cream - Life Savers,C,8,$49.38,false,true
+87,Fork - Plastic,A,35,$94.35,true,false
+88,Wine - Magnotta - Belpaese,D,6,$15.10,,
+89,Appetizer - Chicken Satay,C,28,$12.90,true,true
+90,"Pepper - Red, Finger Hot",D,1,$14.13,true,false
+91,Shrimp - Black Tiger 13/15,C,42,$88.70,false,true
+92,"Juice - Tomato, 48 Oz",C,23,$51.48,false,false
+93,Kolrabi,A,40,$13.72,true,false
+94,Pork - Back Ribs,C,11,$31.60,true,
+95,"Cake Circle, Foil, Scallop",C,8,$95.53,false,false
+96,"Sauce - Bernaise, Mix",C,16,$34.87,true,true
+97,Bread - Olive Dinner Roll,A,29,$70.00,true,
+98,Rosemary - Fresh,C,47,$84.01,false,false
+99,"Fish - Halibut, Cold Smoked",D,36,$87.94,true,false
+100,Tarragon - Fresh,,34,$43.75,false,true
+101,Wine - Chianti Classico Riserva,B,42,$95.30,true,
+102,Crab - Imitation Flakes,A,20,$93.34,false,
+103,Ecolab - Medallion,A,2,$97.12,false,true
+104,"Tarragon - Primerba, Paste",D,38,$18.59,false,
+105,Pears - Anjou,B,23,$9.91,false,true
+106,"Bag - Bread, White, Plain",B,38,$23.46,true,true
+107,"Carrots - Mini, Stem On",,27,$26.78,true,
+108,Pie Pecan,,2,$84.00,true,true
+109,Wine - Champagne Brut Veuve,C,32,$23.73,true,
+110,Carbonated Water - Cherry,B,27,$46.10,true,false
+111,Wine - Soave Folonari,D,6,$54.29,false,false
+112,Brandy Cherry - Mcguinness,A,9,$87.10,,false
+113,Yeast Dry - Fleischman,C,46,$82.41,true,false
+114,Yams,D,16,$10.25,false,false
+115,Bread - Olive Dinner Roll,D,27,$22.75,true,
+116,"Yogurt - Cherry, 175 Gr",B,32,$50.83,true,true
+117,Ketchup - Tomato,B,1,$24.76,,
+118,Sugar - Individual Portions,D,8,$90.37,false,false
+119,Garlic Powder,,9,$39.44,true,false
+120,Ecolab Crystal Fusion,D,22,$28.56,true,false
+121,"Veal - Chops, Split, Frenched",,12,$96.09,false,true
+122,Chutney Sauce - Mango,C,1,$6.07,,false
+123,Bar Nature Valley,D,7,$28.45,false,false
+124,Wine - Prosecco Valdobiaddene,,27,$74.05,true,true
+125,"Wine - Niagara,vqa Reisling",,23,$89.87,true,true
+126,"Soup - Campbells, Butternut",,9,$99.55,false,true
+127,"Noodles - Cellophane, Thin",,38,$38.41,true,
+128,The Pop Shoppe - Black Cherry,A,20,$26.54,true,false
+129,Sobe - Orange Carrot,A,30,$11.03,false,true
+130,Kale - Red,A,27,$97.45,false,true
+131,Ostrich - Prime Cut,B,39,$77.77,false,true
+132,Beer - Camerons Auburn,C,50,$87.44,true,false
+133,"Wine - Red, Wolf Blass, Yellow",D,30,$37.90,false,
+134,Salmon Atl.whole 8 - 10 Lb,C,30,$97.82,false,
+135,Soupfoamcont12oz 112con,B,38,$43.93,true,
+136,Pastry - Carrot Muffin - Mini,B,10,$53.77,false,true
+137,"Lid - High Heat, Super Clear",C,40,$8.56,false,true
+138,Crab - Meat,,8,$75.20,false,true
+139,Truffle Cups Green,,7,$37.67,false,true
+140,Lady Fingers,C,43,$94.06,true,false
+141,Cheese - Cottage Cheese,,44,$28.70,true,
+142,Buffalo - Tenderloin,D,44,$20.06,true,true
+143,Cookie - Dough Variety,,3,$65.55,false,false
+144,Plate Pie Foil,C,40,$61.23,true,false
+145,"Beans - Black Bean, Canned",,26,$45.16,false,false
+146,Soup Bowl Clear 8oz92008,B,35,$14.86,,false
+147,Wine - Chateauneuf Du Pape,C,14,$58.48,false,
+148,Soup - Campbells Mac N Cheese,B,17,$46.59,false,
+149,Beef - Tender Tips,D,9,$97.39,true,
+150,Bread Crumbs - Panko,A,12,$89.13,true,true
+151,Pork Loin Cutlets,D,25,$55.69,true,false
+152,Water - San Pellegrino,B,20,$74.39,,
+153,Wine - Shiraz South Eastern,,16,$99.08,true,false
+154,"Juice - Orange, Concentrate",C,50,$83.57,true,false
+155,"Juice - Grape, White",D,3,$99.63,false,true
+156,Sobe - Orange Carrot,D,13,$22.54,true,true
+157,Water Chestnut - Canned,A,38,$22.60,false,
+158,Soup Campbells - Tomato Bisque,A,44,$96.25,,true
+159,Beef Striploin Aaa,D,46,$64.82,true,false
+160,Boogies,B,16,$59.08,false,false
+161,Sponge Cake Mix - Chocolate,B,21,$6.96,false,true
+162,Kale - Red,D,31,$67.40,false,false
+163,Creamers - 10%,A,15,$75.63,false,true
+164,"Wine - White, Chardonnay",C,46,$10.96,false,true
+165,Garlic Powder,C,8,$6.62,true,
+166,"Basil - Primerba, Paste",,44,$39.25,true,true
+167,Sprouts - Brussel,A,49,$22.55,false,false
+168,Lamb - Ground,B,40,$94.03,true,false
+169,Veal - Nuckle,D,30,$55.51,true,true
+170,"Wine - White, Pinot Grigio",C,20,$84.07,false,false
+171,Drambuie,,9,$80.98,true,
+172,"Cod - Salted, Boneless",B,24,$70.90,true,true
+173,Dc - Frozen Momji,D,18,$48.72,false,false
+174,Bread - Assorted Rolls,A,27,$9.69,false,true
+175,Oil - Peanut,C,24,$41.23,,false
+176,Schnappes Peppermint - Walker,A,16,$29.26,true,true
+177,"Nut - Pecan, Halves",C,36,$15.70,false,false
+178,Bread Base - Italian,,49,$73.47,false,true
+179,Pork Casing,B,13,$64.54,true,true
+180,Soup - Campbells Bean Medley,B,33,$45.15,true,
+181,True - Vue Containers,D,25,$60.72,,true
+182,"Pasta - Shells, Medium, Dry",,8,$19.96,true,true
+183,Sobe - Lizard Fuel,A,45,$50.89,false,true
+184,Foie Gras,B,24,$95.82,false,true
+185,Cup - 4oz Translucent,C,3,$16.08,true,false
+186,Coffee Beans - Chocolate,C,27,$11.38,false,
+187,"Pasta - Fettuccine, Dry",C,31,$60.86,true,true
+188,Remy Red,C,38,$55.17,true,true
+189,Cocktail Napkin Blue,A,31,$9.67,,false
+190,"Gingerale - Schweppes, 355 Ml",,31,$80.65,true,false
+191,Beef - Kobe Striploin,B,10,$46.70,true,
+192,Oven Mitts - 15 Inch,C,3,$32.71,false,false
+193,"Juice - Pineapple, 48 Oz",,21,$31.11,false,
+194,Fudge - Chocolate Fudge,C,7,$94.08,true,false
+195,Beer - Corona,B,47,$93.65,false,false
+196,Dasheen,,42,$38.33,,true
+197,Cauliflower,,10,$66.79,,true
+198,Cabbage - Green,B,4,$32.51,true,false
+199,"Tuna - Canned, Flaked, Light",D,25,$76.78,true,false
+200,Ocean Spray - Ruby Red,A,39,$23.52,true,
+201,Wine - Chianti Classico Riserva,B,21,$43.53,,true
+202,Salmon Steak - Cohoe 8 Oz,D,34,$10.91,false,false
+203,Cake - Cake Sheet Macaroon,C,4,$79.77,true,
+204,Wine - Ice Wine,C,27,$61.81,,
+205,"Pasta - Rotini, Colour, Dry",C,38,$72.89,true,
+206,Cheese - Le Cru Du Clocher,C,25,$86.75,false,false
+207,Bamboo Shoots - Sliced,D,8,$46.10,false,true
+208,Cake - Cheese Cake 9 Inch,A,41,$14.76,false,true
+209,"Quail - Eggs, Fresh",A,39,$73.69,true,false
+210,"Tortillas - Flour, 12",D,43,$70.13,true,true
+211,"Wine - Red, Mouton Cadet",C,28,$88.49,true,
+212,Eel Fresh,C,3,$63.46,false,true
+213,Squash - Pepper,B,23,$16.96,false,false
+214,Chicken - Bones,A,15,$39.05,,true
+215,Filter - Coffee,D,14,$62.35,false,true
+216,Napkin - Beverage 1 Ply,D,41,$73.06,true,true
+217,Mace Ground,B,15,$86.72,false,false
+218,"Wine - White, Riesling, Henry Of",,47,$64.33,true,false
+219,Salmon - Fillets,B,27,$45.92,false,false
+220,Oil - Olive Bertolli,,12,$6.20,true,true
+221,Bread - Granary Small Pull,B,2,$37.10,true,true
+222,Snapple - Iced Tea Peach,C,45,$14.64,false,false
+223,"Rice Pilaf, Dry,package",,45,$44.67,true,false
+224,Pastry - Choclate Baked,,35,$43.41,false,false
+225,"Potatoes - Purple, Organic",A,37,$40.97,true,true
+226,"Beef - Bones, Cut - Up",B,18,$58.71,true,false
+227,Appetizer - Cheese Bites,A,26,$18.00,false,
+228,Glycerine,B,30,$24.31,,
+229,Potatoes - Parissienne,D,11,$54.19,false,
+230,Cheese - Shred Cheddar / Mozza,,45,$89.61,false,
+231,"Wine - White, Ej",B,44,$91.56,false,true
+232,Lumpfish Black,B,17,$8.57,true,false
+233,Pork - Caul Fat,,30,$59.57,true,false
+234,"Mushroom - Morels, Dry",D,19,$24.28,true,
+235,"Wine - Magnotta, White",,15,$27.47,,false
+236,Longos - Chicken Wings,B,23,$32.80,true,
+237,Cabbage - Savoy,B,35,$68.34,true,true
+238,Parsley - Dried,D,38,$40.86,,false
+239,Crackers - Water,C,25,$98.73,false,false
+240,Banana Turning,C,23,$73.49,false,true
+241,Sobe - Berry Energy,D,40,$97.54,false,false
+242,Egg - Salad Premix,,31,$46.98,true,
+243,Kale - Red,,26,$44.25,,false
+244,"Turkey - Breast, Double",C,40,$93.54,,true
+245,Beef - Eye Of Round,,14,$20.26,true,false
+246,"Syrup - Monin, Swiss Choclate",,14,$31.65,true,false
+247,Flower - Carnations,A,30,$50.13,false,true
+248,Lidsoupcont Rp12dn,C,3,$47.91,false,true
+249,Corn Kernels - Frozen,,48,$54.74,false,false
+250,Cheese - Ermite Bleu,A,50,$77.59,,true
+251,Lamb Leg - Bone - In Nz,,26,$96.18,false,
+252,"Lentils - Green, Dry",,42,$98.78,false,false
+253,Ice Cream Bar - Rolo Cone,A,50,$31.79,true,false
+254,Pastry - Mini French Pastries,B,11,$89.27,false,
+255,Filo Dough,,5,$14.86,false,true
+256,Pork - Bacon Cooked Slcd,D,31,$9.33,false,false
+257,Chutney Sauce,B,1,$99.65,false,false
+258,Shark - Loin,A,34,$47.59,false,false
+259,Croissants Thaw And Serve,B,19,$20.92,,false
+260,Bread - 10 Grain,A,42,$81.45,true,
+261,Cake - Mini Cheesecake,C,34,$97.76,true,true
+262,Curry Powder,,35,$60.26,,false
+263,"Fish - Soup Base, Bouillon",,16,$9.47,false,
+264,Cabbage - Savoy,C,50,$38.79,false,false
+265,Wine - Manischewitz Concord,C,47,$39.47,,
+266,Chef Hat 25cm,B,16,$39.70,,false
+267,Puree - Passion Fruit,,14,$86.75,false,false
+268,Bread - Italian Corn Meal Poly,C,37,$6.54,false,false
+269,Foam Dinner Plate,,5,$50.01,true,true
+270,"Beef - Baby, Liver",B,27,$90.91,false,false
+271,Glaze - Apricot,C,24,$5.08,false,
+272,Lid - 3oz Med Rec,B,38,$74.82,,false
+273,Gatorade - Orange,A,37,$75.95,true,false
+274,Bread - Ciabatta Buns,C,50,$37.01,true,true
+275,"Sugar - Brown, Individual",B,39,$9.55,false,false
+276,Mushroom - Porcini Frozen,C,9,$78.77,false,false
+277,Absolut Citron,B,2,$48.18,,true
+278,Crab - Meat,D,20,$35.56,true,false
+279,Oxtail - Cut,A,39,$61.81,false,
+280,Fennel,C,31,$85.99,false,false
+281,Pastry - Trippleberry Muffin - Mini,D,33,$88.36,false,false
+282,Bread - 10 Grain Parisian,,50,$73.73,true,true
+283,Wine - Black Tower Qr,B,26,$84.73,false,true
+284,Fuji Apples,D,10,$14.76,true,false
+285,Flour - Semolina,A,30,$89.15,true,false
+286,Wine - Vouvray Cuvee Domaine,A,50,$25.10,true,
+287,Pepper - Green,D,28,$65.45,false,true
+288,Bread - Ciabatta Buns,B,1,$61.35,false,
+289,Wine - Bouchard La Vignee Pinot,,42,$16.82,false,true
+290,Rabbit - Saddles,C,32,$50.24,true,
+291,Onions Granulated,B,36,$39.24,true,false
+292,Cake - French Pear Tart,D,33,$46.77,false,false
+293,Bread - Raisin Walnut Pull,D,40,$46.13,true,false
+294,Leeks - Large,B,22,$60.52,,false
+295,Cornstarch,,48,$73.20,true,true
+296,Appetizer - Sausage Rolls,,4,$85.48,false,
+297,"Fish - Soup Base, Bouillon",A,38,$57.53,true,
+298,"Beans - Kidney, Canned",B,42,$86.29,,true
+299,"Syrup - Monin, Swiss Choclate",,47,$57.64,false,true
+300,Versatainer Nc - 9388,D,32,$11.30,true,
+301,Sobe - Cranberry Grapefruit,C,10,$11.28,true,false
+302,Rosemary - Fresh,,12,$12.69,true,true
+303,Rum - Mount Gay Eclipes,B,29,$24.82,true,
+304,Juice - Orangina,C,45,$89.39,true,true
+305,Pork Loin Bine - In Frenched,B,14,$94.08,false,
+306,Chocolate - Sugar Free Semi Choc,B,3,$20.36,,true
+307,The Pop Shoppe Pinapple,B,41,$41.83,false,true
+308,"Lemonade - Mandarin, 591 Ml",,35,$78.66,false,
+309,Oysters - Smoked,B,37,$63.14,true,false
+310,Turnip - Mini,,10,$20.60,false,false
+311,"Chilli Paste, Ginger Garlic",D,40,$30.68,,false
+312,"Doilies - 12, Paper",A,38,$42.91,false,
+313,Madeira,D,34,$20.99,true,
+314,Pork Loin Bine - In Frenched,,39,$76.68,true,true
+315,Cheese - Comtomme,B,21,$51.69,true,false
+316,Lychee - Canned,A,37,$77.21,true,false
+317,Oil - Peanut,B,19,$78.76,false,
+318,Muffin Mix - Lemon Cranberry,D,36,$59.20,false,false
+319,"Cheese - Brie, Cups 125g",D,24,$29.05,,
+320,Bread - Frozen Basket Variety,C,37,$79.44,,true
+321,"Vermouth - White, Cinzano",A,37,$7.29,,true
+322,Wine - George Duboeuf Rose,C,29,$65.55,false,
+323,Tea Peppermint,,47,$99.46,true,true
+324,"Mushroom - Porcini, Dry",D,45,$41.72,,true
+325,"Potatoes - Instant, Mashed",C,12,$45.61,false,true
+326,"Lettuce - Mini Greens, Whole",,44,$47.07,,false
+327,"Juice - Grapefruit, 341 Ml",D,4,$37.98,false,false
+328,Mussels - Frozen,B,24,$19.64,true,false
+329,Miso Paste White,B,43,$12.79,true,
+330,Pernod,C,15,$70.16,false,true
+331,Yokaline,C,36,$87.30,true,true
+332,Food Colouring - Pink,,20,$45.24,false,true
+333,Fennel - Seeds,,7,$25.18,,
+334,"Loaf Pan - 2 Lb, Foil",C,24,$47.11,true,true
+335,"Yogurt - Strawberry, 175 Gr",B,27,$46.23,true,
+336,Wild Boar - Tenderloin,C,17,$78.59,false,
+337,"Crab - Dungeness, Whole",D,40,$20.83,true,true
+338,Island Oasis - Pina Colada,,1,$40.43,true,false
+339,Pate - Peppercorn,D,43,$96.45,true,false
+340,"Cheese - Brie,danish",B,29,$96.35,true,
+341,Temperature Recording Station,,36,$88.20,false,
+342,"Bread - Rolls, Rye",A,14,$98.78,true,
+343,"Soup - Campbells, Creamy",,10,$22.18,true,false
+344,Wine - Vineland Estate Semi - Dry,,16,$54.79,true,true
+345,Cassis,B,9,$76.08,true,false
+346,Beer - Mcauslan Apricot,D,6,$22.96,true,true
+347,Cheese - Brick With Pepper,A,19,$43.70,true,true
+348,"Soup - Campbells, Beef Barley",,46,$73.92,,true
+349,Coffee Guatemala Dark,C,11,$46.23,true,true
+350,Chevere Logs,A,38,$78.00,false,true
+351,Apple - Northern Spy,C,33,$62.58,true,true
+352,Spring Roll Veg Mini,A,37,$41.01,true,true
+353,Table Cloth 54x72 Colour,B,47,$85.01,false,false
+354,Salt - Kosher,D,27,$16.26,false,true
+355,Potatoes - Mini Red,B,18,$95.68,false,false
+356,Ice Cream - Fudge Bars,D,29,$12.34,false,true
+357,Tea - Grapefruit Green Tea,B,30,$66.76,true,
+358,"Wine - White, Riesling, Semi - Dry",,20,$20.17,false,
+359,Avocado,A,15,$29.32,true,false
+360,Mcgillicuddy Vanilla Schnap,,45,$8.64,false,true
+361,Wakami Seaweed,C,14,$64.97,false,false
+362,Flour - Chickpea,D,44,$32.11,false,false
+363,Cheese - Fontina,B,3,$32.42,true,false
+364,Wood Chips - Regular,D,2,$69.63,false,true
+365,Browning Caramel Glace,,19,$49.45,true,true
+366,Mcgillicuddy Vanilla Schnap,,15,$92.57,true,false
+367,Sugar Thermometer,A,44,$21.61,true,false
+368,Absolut Citron,D,50,$95.08,true,true
+369,Pork - European Side Bacon,C,15,$15.55,,true
+370,Island Oasis - Mango Daiquiri,B,36,$59.40,false,false
+371,Gloves - Goldtouch Disposable,,36,$75.62,false,true
+372,Sugar - Individual Portions,D,31,$37.33,false,
+373,Truffle - Whole Black Peeled,B,15,$45.94,true,true
+374,Clams - Canned,,14,$56.90,true,true
+375,"Butter - Salted, Micro",A,46,$29.05,,false
+376,Bread - Kimel Stick Poly,A,36,$57.49,true,
+377,Steampan - Foil,,50,$74.92,,false
+378,"Soup - Beef, Base Mix",A,21,$95.34,false,true
+379,"Stock - Veal, Brown",,48,$18.01,false,false
+380,Wine - Baron De Rothschild,D,33,$63.74,true,true
+381,Tomatoes - Yellow Hot House,A,24,$40.99,false,false
+382,Chervil - Fresh,A,34,$7.11,,true
+383,Veal - Sweetbread,C,9,$18.38,false,true
+384,White Fish - Filets,D,10,$48.23,,true
+385,Broccoli - Fresh,D,44,$19.25,,
+386,Wakami Seaweed,,18,$77.59,false,false
+387,Dragon Fruit,D,13,$40.40,,false
+388,Momiji Oroshi Chili Sauce,D,28,$48.33,true,false
+389,"Apple - Delicious, Golden",A,8,$41.80,,false
+390,"Vermouth - White, Cinzano",B,30,$44.83,,true
+391,Limes,C,15,$96.53,true,
+392,Garbage Bag - Clear,,16,$23.03,true,true
+393,Beer - Sleemans Cream Ale,A,2,$90.31,false,
+394,"Mushroom - Chantrelle, Fresh",B,23,$84.75,true,
+395,"Pork - Back, Long Cut, Boneless",,7,$38.56,false,true
+396,Pastry - Lemon Danish - Mini,B,9,$62.00,false,false
+397,Flour - Cake,D,26,$16.11,false,true
+398,Mini - Vol Au Vents,,11,$7.71,true,true
+399,Foam Dinner Plate,,20,$41.93,true,true
+400,Lotus Rootlets - Canned,C,8,$24.62,false,true
+401,Steampan - Half Size Shallow,D,38,$28.60,true,true
+402,Pepper - Green Thai,A,28,$83.88,true,
+403,Apricots - Halves,B,18,$71.32,true,
+404,"Carrots - Purple, Organic",,28,$52.71,,true
+405,"Ice - Clear, 300 Lb For Carving",D,1,$29.02,,false
+406,Skirt - 24 Foot,B,49,$69.45,true,true
+407,"Flour - Corn, Fine",B,2,$24.60,false,
+408,"Yogurt - Cherry, 175 Gr",D,19,$15.81,false,false
+409,"Crab - Dungeness, Whole, live",B,33,$95.95,false,
+410,Steel Wool S.o.s,D,8,$10.70,false,
+411,Lamb Rack - Ontario,C,46,$80.63,true,false
+412,Ketchup - Tomato,D,18,$91.06,false,true
+413,Crab Brie In Phyllo,,49,$35.86,false,
+414,Chicken - Whole,B,13,$62.98,false,false
+415,"Wine - Red, Cabernet Sauvignon",C,8,$76.80,,true
+416,Extract - Raspberry,A,3,$11.34,false,true
+417,Foil Wrap,C,28,$62.67,true,false
+418,Shrimp - 31/40,C,37,$81.59,true,true
+419,Energy Drink Bawls,D,8,$51.53,false,false
+420,"Yogurt - Strawberry, 175 Gr",A,28,$81.88,true,
+421,Puree - Guava,D,35,$38.29,false,false
+422,"Tart Shells - Savory, 3",B,27,$7.82,false,true
+423,Versatainer Nc - 8288,A,41,$56.63,,false
+424,Ham - Black Forest,A,23,$53.78,true,false
+425,Water - Tonic,D,48,$18.05,false,
+426,"Chicken - Leg, Boneless",A,20,$95.51,true,true
+427,Truffle Cups - White Paper,B,6,$89.83,true,
+428,Ham - Cooked Bayonne Tinned,C,39,$50.30,false,false
+429,"Juice - Tomato, 48 Oz",C,6,$71.32,true,true
+430,Watercress,C,45,$90.92,false,true
+431,Pork - Kidney,B,36,$18.96,false,
+432,Flax Seed,A,36,$96.39,true,false
+433,Tilapia - Fillets,B,11,$43.05,,true
+434,Coffee - Ristretto Coffee Capsule,B,44,$5.35,true,true
+435,The Pop Shoppe - Grape,C,31,$86.29,false,false
+436,"Lettuce - Romaine, Heart",D,19,$97.12,true,
+437,Cheese - Bakers Cream Cheese,,6,$84.37,true,false
+438,Wine - Ej Gallo Sierra Valley,B,9,$17.48,true,
+439,Coffee Caramel Biscotti,B,20,$31.39,false,false
+440,Bread - Onion Focaccia,C,30,$24.89,false,true
+441,"Carrots - Purple, Organic",B,8,$43.61,true,false
+442,Cilantro / Coriander - Fresh,,50,$39.74,false,true
+443,"Lamb - Shoulder, Boneless",A,19,$92.25,false,true
+444,"Cherries - Bing, Canned",B,50,$93.76,false,
+445,Crush - Cream Soda,C,20,$29.05,false,false
+446,Foil Wrap,D,21,$88.78,true,true
+447,Raisin - Dark,,41,$94.72,false,true
+448,Extract - Rum,D,39,$37.50,false,true
+449,Water - Tonic,D,37,$96.47,true,true
+450,Bagelers,,4,$29.66,true,false
+451,Egg Patty Fried,A,34,$14.19,true,false
+452,V8 - Tropical Blend,,35,$41.09,false,
+453,Raspberries - Frozen,B,10,$37.83,true,true
+454,Beer - True North Strong Ale,,32,$34.33,,false
+455,Bar Energy Chocchip,A,42,$33.39,false,
+456,"Cheese - Woolwich Goat, Log",C,34,$81.32,true,true
+457,Cauliflower,D,30,$76.02,true,
+458,Yoplait - Strawbrasp Peac,B,4,$34.94,true,false
+459,Bay Leaf Fresh,D,14,$48.72,true,true
+460,Sherry - Dry,D,47,$97.00,true,true
+461,Daikon Radish,,43,$18.32,false,false
+462,Muffin Batt - Blueberry Passion,C,38,$24.21,,false
+463,Langers - Ruby Red Grapfruit,C,27,$14.71,true,true
+464,"Lobster - Tail, 3 - 4 Oz",,38,$21.28,true,false
+465,Buffalo - Striploin,C,34,$17.78,true,false
+466,"Beans - Long, Chinese",C,35,$20.65,false,false
+467,Chips - Assorted,C,44,$88.01,,false
+468,Soup - Campbells - Tomato,D,31,$34.87,true,true
+469,Bread - Pain Au Liat X12,D,18,$45.05,true,true
+470,"Lentils - Red, Dry",,25,$60.98,false,true
+471,"Sauce - Bernaise, Mix",A,5,$36.01,false,false
+472,Sauce - Rosee,C,23,$30.91,true,true
+473,"Rum - Cream, Amarula",B,23,$52.77,,true
+474,"Crab - Claws, Snow 16 - 24",A,49,$81.18,true,
+475,Lobster - Canned Premium,C,47,$91.57,false,
+476,"Wine - Red, Gallo, Merlot",D,11,$33.62,true,false
+477,Wheat - Soft Kernal Of Wheat,B,2,$29.96,false,
+478,Lobster - Base,C,2,$18.92,false,false
+479,"Wine - White, Concha Y Toro",,1,$99.84,,false
+480,"Salmon - Atlantic, Skin On",D,27,$16.43,,false
+481,Sugar - Icing,B,5,$80.38,false,true
+482,Table Cloth 54x54 Colour,D,49,$67.16,false,true
+483,"Soup - Knorr, Chicken Noodle",B,2,$55.68,true,true
+484,Onions - White,,40,$7.98,false,false
+485,Puree - Passion Fruit,C,46,$7.96,false,false
+486,Calypso - Strawberry Lemonade,,43,$49.76,false,false
+487,Extract - Almond,D,14,$79.58,false,true
+488,Pie Filling - Apple,C,10,$63.48,true,false
+489,Spice - Greek 1 Step,C,5,$84.60,,false
+490,Pork - Bacon Cooked Slcd,D,40,$7.32,false,
+491,Tea - Herbal - 6 Asst,D,24,$32.65,false,
+492,Butcher Twine 4r,,3,$35.27,,
+493,Mace Ground,B,22,$10.92,false,true
+494,Table Cloth 120 Round White,,22,$76.18,,false
+495,"Fish - Halibut, Cold Smoked",,9,$30.73,true,
+496,Oven Mitts - 15 Inch,B,24,$66.05,false,
+497,Pur Value,B,24,$55.82,true,
+498,Bread - Rye,C,17,$15.45,false,true
+499,Truffle Cups - Brown,C,9,$86.18,false,false
+500,"Pasta - Linguini, Dry",C,8,$17.20,,true
+501,"Pepsi - Diet, 355 Ml",A,40,$84.81,true,
+502,Bread - Bistro White,,26,$89.43,,
+503,Bag Clear 10 Lb,B,20,$11.98,,true
+504,Bread - Raisin Walnut Pull,C,1,$65.76,false,false
+505,"Tray - Foam, Square 4 - S",C,34,$13.37,false,true
+506,"Lid - Translucent, 3.5 And 6 Oz",D,17,$34.45,true,true
+507,Bread - Corn Muffaletta,,6,$91.22,true,false
+508,Guinea Fowl,B,47,$6.80,true,false
+509,Pasta - Fusili Tri - Coloured,A,47,$31.54,false,false
+510,Lettuce - Spring Mix,C,36,$15.49,false,false
+511,Corn Shoots,B,21,$64.62,true,
+512,Flour - Semolina,C,17,$24.11,true,true
+513,"Nut - Peanut, Roasted",,31,$94.73,true,false
+514,"Star Anise, Whole",,40,$60.74,true,false
+515,Chives - Fresh,B,41,$91.66,true,
+516,Halibut - Fletches,,42,$21.23,true,false
+517,Juice - Propel Sport,C,13,$47.18,false,false
+518,Beer - Original Organic Lager,,33,$23.61,true,
+519,"Lobster - Baby, Boiled",D,33,$17.00,false,true
+520,Container Clear 8 Oz,B,47,$18.50,true,
+521,Juice - Lagoon Mango,C,35,$26.38,false,false
+522,Onions - Red Pearl,,49,$66.39,true,false
+523,Versatainer Nc - 8288,,14,$25.45,false,false
+524,Wine - Vineland Estate Semi - Dry,A,6,$90.90,,false
+525,Puree - Passion Fruit,,7,$32.13,true,true
+526,Mustard - Pommery,B,7,$95.89,false,true
+527,"Gingerale - Schweppes, 355 Ml",B,18,$83.55,true,true
+528,Juice - Apple Cider,A,3,$85.27,false,false
+529,Tequila - Sauza Silver,,1,$47.11,false,true
+530,"Potatoes - Purple, Organic",D,19,$43.82,false,false
+531,Jolt Cola - Red Eye,,12,$47.88,false,true
+532,Duck - Breast,B,33,$12.19,true,true
+533,Oil - Olive Bertolli,C,9,$88.53,true,true
+534,Extract - Raspberry,A,30,$52.60,true,true
+535,Shark - Loin,A,24,$29.73,true,
+536,Wine - Segura Viudas Aria Brut,D,25,$75.46,false,
+537,Corn - Mini,,29,$56.88,true,true
+538,Lettuce - Lambs Mash,D,6,$71.67,false,false
+539,Cookies Cereal Nut,,3,$5.05,false,
+540,Basil - Pesto Sauce,A,33,$37.90,true,
+541,Sausage - Breakfast,B,47,$36.03,false,true
+542,Ice Cream Bar - Hagen Daz,B,44,$29.22,,false
+543,Silicone Parch. 16.3x24.3,D,44,$52.69,true,true
+544,"Cheese - Cheddar, Mild",B,17,$70.79,,
+545,Steampan - Lid For Half Size,A,36,$9.48,true,false
+546,Wine - Gato Negro Cabernet,B,3,$23.79,false,true
+547,Country Roll,D,46,$81.18,,false
+548,Arizona - Green Tea,,48,$77.77,false,false
+549,Soup V8 Roasted Red Pepper,,21,$48.81,,true
+550,Bread Sour Rolls,C,49,$60.43,true,true
+551,Tea Leaves - Oolong,D,18,$38.70,,true
+552,Cookies Oatmeal Raisin,B,45,$23.32,true,false
+553,Artichokes - Jerusalem,C,50,$18.04,false,true
+554,Coffee Cup 12oz 5342cd,A,35,$15.26,false,
+555,Scampi Tail,,49,$58.74,false,
+556,Extract Vanilla Pure,C,28,$16.99,true,true
+557,Walkers Special Old Whiskey,B,8,$32.19,true,false
+558,Corn Syrup,B,7,$41.17,,false
+559,Table Cloth 62x120 White,B,38,$31.57,,true
+560,"Chicken - Breast, 5 - 7 Oz",C,31,$59.23,true,false
+561,Gherkin - Sour,D,5,$58.36,,false
+562,Russian Prince,C,27,$50.60,false,false
+563,Pork Loin Bine - In Frenched,C,50,$99.86,false,
+564,Beef - Striploin,A,42,$90.74,true,true
+565,Quinoa,D,48,$83.72,true,true
+566,Wine - Blue Nun Qualitatswein,C,10,$32.49,true,
+567,Fondant - Icing,B,31,$80.98,true,
+568,Flour - So Mix Cake White,A,14,$17.78,false,false
+569,Appetizer - Shrimp Puff,,7,$14.88,false,true
+570,Glaze - Clear,A,48,$7.74,true,false
+571,Appetizer - Sausage Rolls,,46,$44.65,false,true
+572,Island Oasis - Magarita Mix,B,38,$5.64,true,true
+573,Sausage - Breakfast,D,19,$84.36,,false
+574,Flour - Masa De Harina Mexican,A,4,$59.68,false,true
+575,Sauce - Chili,B,38,$82.39,false,
+576,Muffin Mix - Lemon Cranberry,A,31,$60.25,false,
+577,Foil Cont Round,C,15,$46.98,true,false
+578,Dc Hikiage Hira Huba,,49,$59.37,,
+579,Coffee - Decafenated,B,7,$59.06,true,
+580,Clam - Cherrystone,,40,$47.95,false,
+581,Chocolate - Milk,A,29,$93.16,true,true
+582,Sterno - Chafing Dish Fuel,B,9,$64.15,,false
+583,Pastry - Mini French Pastries,A,8,$62.81,false,false
+584,Coffee Cup 16oz Foam,,34,$16.91,false,
+585,"Juice - Grapefruit, 341 Ml",C,19,$62.89,true,true
+586,"Mushroom - Porcini, Dry",C,37,$46.31,,false
+587,Pineapple - Regular,D,17,$62.99,,
+588,Pastry - Carrot Muffin - Mini,,22,$34.39,true,false
+589,Pepper - Sorrano,D,40,$97.27,true,false
+590,"Chocolate - Pistoles, White",D,41,$8.71,true,false
+591,Sausage - Breakfast,B,48,$31.22,false,false
+592,Browning Caramel Glace,A,39,$21.97,false,true
+593,"Soup - Canadian Pea, Dry Mix",D,12,$55.35,,
+594,Sesame Seed,D,1,$32.23,true,false
+595,Tamarillo,C,34,$98.68,false,true
+596,Graham Cracker Mix,B,1,$22.59,true,
+597,Foam Espresso Cup Plain White,B,40,$73.89,true,true
+598,Tobasco Sauce,D,35,$62.72,true,false
+599,Capers - Ox Eye Daisy,B,4,$21.77,false,
+600,"Yeast - Fresh, Fleischman",,5,$64.20,false,false
+601,Chips - Doritos,A,30,$92.35,,false
+602,Wine - Taylors Reserve,D,20,$22.03,false,false
+603,Sloe Gin - Mcguinness,B,33,$92.39,,true
+604,Pastry - Lemon Danish - Mini,A,30,$74.66,false,
+605,"Crab - Dungeness, Whole, live",B,33,$90.22,true,false
+606,Truffle Paste,B,33,$22.67,true,
+607,"Beer - Alexander Kieths, Pale Ale",,32,$90.19,true,false
+608,Ocean Spray - Kiwi Strawberry,B,23,$39.19,false,
+609,Crab - Meat Combo,A,40,$45.40,true,true
+610,Beef - Prime Rib Aaa,,10,$40.82,true,
+611,Sping Loaded Cup Dispenser,B,31,$6.60,true,
+612,Vinegar - Balsamic,A,15,$98.54,true,false
+613,Coffee - Cafe Moreno,D,11,$5.84,false,false
+614,Cabbage - Nappa,A,27,$86.78,false,true
+615,Sage - Ground,A,33,$17.25,false,true
+616,Ice Cream - Life Savers,B,1,$22.68,false,
+617,Bar - Granola Trail Mix Fruit Nut,B,50,$25.27,true,false
+618,Maple Syrup,D,42,$25.63,false,true
+619,"Chocolate - Milk, Callets",C,24,$75.69,true,
+620,Soup Campbells Split Pea And Ham,C,48,$52.81,true,false
+621,"Ice - Clear, 300 Lb For Carving",B,10,$88.38,true,false
+622,"Soup - Campbells, Cream Of",A,44,$34.81,true,true
+623,Anchovy In Oil,D,50,$15.57,true,false
+624,Beer - Steamwhistle,D,28,$57.22,true,
+625,Soup - French Onion,,47,$45.29,false,
+626,Black Currants,C,10,$90.48,false,true
+627,Garbage Bag - Clear,B,33,$9.84,false,false
+628,Bread - Italian Sesame Poly,B,8,$21.92,true,
+629,"Pasta - Elbows, Macaroni, Dry",C,22,$92.80,false,true
+630,Wine - Jaboulet Cotes Du Rhone,A,21,$90.40,false,true
+631,Wine - Placido Pinot Grigo,C,3,$39.39,,false
+632,Ginger - Crystalized,B,2,$14.80,false,false
+633,Table Cloth 90x90 Colour,,30,$95.43,false,false
+634,Extract - Lemon,,20,$6.00,false,false
+635,Duck - Fat,C,1,$87.71,,
+636,Bread - Corn Muffaletta,A,18,$22.73,true,true
+637,Flower - Carnations,,19,$17.35,false,
+638,Tomatoes Tear Drop,C,3,$23.28,false,true
+639,Barramundi,C,22,$59.19,false,
+640,"Glass - Wine, Plastic, Clear 5 Oz",,7,$44.99,true,false
+641,Salt - Table,B,24,$22.36,true,true
+642,Lettuce Romaine Chopped,D,5,$20.05,,
+643,Bread - Multigrain Oval,A,5,$7.53,false,true
+644,"Peas - Pigeon, Dry",A,34,$89.08,false,true
+645,"Cheese - Woolwich Goat, Log",,35,$11.21,false,true
+646,Banana - Leaves,,29,$78.72,false,true
+647,"Tuna - Canned, Flaked, Light",D,30,$77.23,,true
+648,"Beef - Bones, Cut - Up",A,19,$94.07,true,
+649,Squid - Tubes / Tenticles 10/20,B,12,$26.32,false,true
+650,Cheese - Parmesan Grated,A,6,$48.40,true,true
+651,"Fish - Base, Bouillion",D,37,$36.60,true,
+652,Garbag Bags - Black,C,39,$12.30,,
+653,"Turkey - Breast, Double",C,21,$14.14,false,
+654,Containter - 3oz Microwave Rect.,,31,$18.47,true,
+655,"Pasta - Fusili, Dry",D,20,$21.42,false,false
+656,Ice Cream - Fudge Bars,D,36,$94.56,,true
+657,Cumin - Whole,A,27,$28.80,,
+658,Rice Paper,C,39,$76.40,true,
+659,"Artichoke - Hearts, Canned",,33,$92.86,false,true
+660,Dried Cherries,C,7,$50.31,,
+661,Chicken Breast Wing On,B,47,$80.94,true,true
+662,Dry Ice,B,17,$54.83,true,
+663,Wakami Seaweed,B,34,$24.85,false,true
+664,Country Roll,B,18,$99.76,true,
+665,"Chicken - Thigh, Bone In",,3,$83.53,,false
+666,Chips - Doritos,A,1,$68.37,true,false
+667,Chicken - Leg / Back Attach,A,3,$8.22,true,true
+668,Wine - Clavet Saint Emilion,C,4,$93.80,,true
+669,Gelatine Leaves - Envelopes,D,49,$76.59,true,false
+670,Cake Slab,D,42,$86.65,true,false
+671,"Tortillas - Flour, 10",C,37,$18.86,false,false
+672,Creme De Menthe Green,A,22,$21.76,true,
+673,"Chocolate - Semi Sweet, Calets",A,21,$62.22,false,
+674,Dawn Professionl Pot And Pan,D,23,$59.82,,
+675,Bread - Wheat Baguette,C,31,$99.58,false,false
+676,Octopus,,50,$47.97,,
+677,"Oil - Truffle, White",B,7,$62.19,false,false
+678,Cheese - Gouda,D,42,$84.14,true,true
+679,Neckerchief Blck,,17,$18.13,true,true
+680,"Soup - Campbells, Chix Gumbo",,40,$76.13,,true
+681,Oil - Safflower,A,9,$21.92,false,
+682,Wooden Mop Handle,B,12,$71.64,true,true
+683,"Pepper - Julienne, Frozen",C,8,$39.09,false,false
+684,Pastry - French Mini Assorted,,34,$72.97,true,
+685,Milk - Buttermilk,,50,$7.82,true,
+686,"Vodka - Hot, Lnferno",,49,$16.36,false,true
+687,Nantucket - Pomegranate Pear,B,47,$53.15,true,true
+688,Island Oasis - Lemonade,D,5,$72.05,false,
+689,Cup - Paper 10oz 92959,D,3,$95.96,,true
+690,Sprouts - Brussel,A,43,$32.33,false,
+691,Soup - Chicken And Wild Rice,D,7,$18.33,false,false
+692,Apple - Royal Gala,B,27,$50.03,false,
+693,"Soup - Knorr, Classic Can. Chili",D,37,$31.90,false,
+694,"Lemonade - Island Tea, 591 Ml",B,45,$40.66,false,false
+695,"Cheese - Mozzarella, Buffalo",B,29,$80.05,false,true
+696,Beer - Paulaner Hefeweisse,B,1,$33.32,false,false
+697,Wine - Sauvignon Blanc Oyster,,47,$61.76,false,
+698,Melon - Cantaloupe,A,18,$7.37,true,true
+699,Rabbit - Legs,C,45,$40.52,false,true
+700,Salt - Celery,,14,$74.73,true,false
+701,"Brocolinni - Gaylan, Chinese",B,8,$87.65,true,true
+702,Ice Cream Bar - Rolo Cone,,4,$22.24,false,true
+703,Muffin - Zero Transfat,D,38,$74.73,,false
+704,Snapple - Mango Maddness,B,4,$89.09,,
+705,Sea Bass - Fillets,A,26,$99.25,true,
+706,"Orange - Canned, Mandarin",D,29,$41.58,false,
+707,Grenadine,A,30,$89.59,true,false
+708,Wine - Baron De Rothschild,A,29,$65.06,false,
+709,Crackers Cheez It,B,5,$88.37,true,
+710,Curry Paste - Green Masala,D,36,$12.03,,
+711,"Pasta - Penne, Lisce, Dry",,13,$73.99,false,true
+712,Cheese - Swiss Sliced,C,33,$97.14,,true
+713,"Mushroom - Shitake, Fresh",B,1,$53.31,,false
+714,Chips Potato Reg 43g,,46,$49.67,false,true
+715,Apple - Northern Spy,,24,$19.10,true,true
+716,Wine - Fino Tio Pepe Gonzalez,C,20,$28.93,false,false
+717,"Rosemary - Primerba, Paste",A,40,$85.98,false,true
+718,Tea - Apple Green Tea,A,13,$79.17,false,true
+719,Pepper - Yellow Bell,B,18,$7.24,,
+720,Teriyaki Sauce,B,13,$58.48,false,
+721,Seaweed Green Sheets,D,49,$71.80,true,false
+722,Schnappes Peppermint - Walker,C,38,$62.40,false,false
+723,Mcgillicuddy Vanilla Schnap,A,49,$22.53,true,true
+724,Cheese - Mix,A,38,$13.04,false,
+725,Sea Bass - Fillets,A,20,$5.56,false,true
+726,Wine - Pinot Noir Latour,C,2,$7.49,false,true
+727,Muffins - Assorted,C,7,$20.42,false,
+728,"Rum - Spiced, Captain Morgan",C,26,$24.67,false,false
+729,Tea - Black Currant,C,8,$98.78,false,false
+730,Hot Chocolate - Individual,A,6,$79.35,,true
+731,Raisin - Golden,A,9,$35.90,,false
+732,Onions - Vidalia,A,5,$38.41,false,
+733,Beef - Sushi Flat Iron Steak,B,16,$93.27,false,false
+734,"Pepper - White, Ground",,1,$39.59,false,true
+735,Skewers - Bamboo,A,41,$48.50,false,true
+736,Island Oasis - Wildberry,B,24,$96.24,true,false
+737,Beans - Fava Fresh,A,22,$34.89,false,
+738,Oil - Sunflower,A,4,$67.04,false,true
+739,Ecolab - Hobart Upr Prewash Arm,B,38,$84.05,true,false
+740,Truffle Cups - Brown,D,1,$49.46,false,
+741,Carbonated Water - Strawberry,B,23,$37.39,true,
+742,Pur Value,B,47,$46.10,false,false
+743,Coffee - Irish Cream,A,33,$63.99,false,false
+744,Sausage - Meat,C,39,$84.20,false,false
+745,Beer - True North Lager,A,4,$18.70,false,true
+746,"Soup - Knorr, Classic Can. Chili",A,49,$64.23,false,true
+747,Gingerale - Diet - Schweppes,C,33,$93.75,,false
+748,"Potatoes - Instant, Mashed",A,15,$45.66,false,true
+749,Sugar - Brown,B,15,$7.24,false,true
+750,Bouq All Italian - Primerba,A,26,$99.63,false,true
+751,Ice Cream - Turtles Stick Bar,B,44,$81.06,false,false
+752,Sauce - Plum,B,2,$31.27,true,true
+753,Sugar Thermometer,C,40,$69.85,,true
+754,"Split Peas - Yellow, Dry",,18,$19.47,false,
+755,Chevere Logs,D,47,$94.87,true,false
+756,Cheese - Provolone,C,23,$86.07,,true
+757,"Wine - White, Chardonnay",A,2,$34.38,false,
+758,Tomatoes - Yellow Hot House,B,4,$9.24,false,false
+759,Scallops - U - 10,A,27,$84.09,true,
+760,Soup - Campbells Pasta Fagioli,A,37,$83.72,true,
+761,Frangelico,,17,$65.11,,
+762,Oil - Canola,D,6,$6.95,true,
+763,Banana,A,22,$44.62,false,false
+764,Taro Leaves,D,48,$51.89,false,false
+765,Pepper - Sorrano,D,25,$60.48,true,false
+766,Wine - Periguita Fonseca,C,17,$18.02,true,true
+767,Puree - Mango,A,4,$47.47,true,true
+768,Wine - Piper Heidsieck Brut,A,47,$95.49,true,true
+769,"Veal - Inside Round / Top, Lean",A,12,$6.83,true,true
+770,Chicken - Leg / Back Attach,B,35,$65.62,,false
+771,Beer - Moosehead,C,41,$91.00,,true
+772,Peas - Frozen,D,48,$10.17,false,true
+773,Venison - Denver Leg Boneless,B,43,$78.62,false,false
+774,Pepper - Red Bell,A,15,$29.77,false,
+775,Wine - Delicato Merlot,,42,$68.20,,
+776,Ecolab Digiclean Mild Fm,,7,$22.91,true,true
+777,Bread - Rosemary Focaccia,B,25,$94.53,,false
+778,Shiratamako - Rice Flour,,18,$33.17,,false
+779,Truffle Cups - Red,,33,$21.66,true,
+780,"Wine - White, Mosel Gold",A,1,$42.95,,true
+781,Petite Baguette,C,16,$55.57,true,true
+782,Table Cloth 62x120 White,B,12,$84.59,false,false
+783,Muffin Orange Individual,D,25,$10.44,true,true
+784,Sausage - Liver,,25,$65.26,true,true
+785,"Pepper - Black, Crushed",,16,$80.13,,true
+786,Coffee - Cafe Moreno,D,41,$71.78,true,true
+787,Cleaner - Lime Away,,17,$81.49,false,true
+788,Tomato Puree,B,11,$26.37,false,false
+789,"Sugar - Sweet N Low, Individual",C,12,$91.53,true,false
+790,Soup - Campbells Pasta Fagioli,C,17,$23.11,true,false
+791,Dried Figs,B,19,$39.85,true,false
+792,Coffee Cup 16oz Foam,C,16,$26.75,true,true
+793,Puree - Mocha,C,10,$73.67,false,false
+794,Paper Cocktail Umberlla 80 - 180,B,7,$90.94,false,true
+795,Ecolab - Hand Soap Form Antibac,C,4,$5.97,,true
+796,"Nut - Pecan, Halves",B,45,$70.27,,false
+797,Drambuie,D,22,$22.43,false,
+798,Piping - Bags Quizna,C,27,$15.86,true,true
+799,Dill Weed - Dry,B,21,$98.57,false,false
+800,Wine - Chianti Classica Docg,A,27,$82.24,true,false
+801,Muffin - Mix - Bran And Maple 15l,C,22,$69.25,false,true
+802,Wine - Vineland Estate Semi - Dry,,15,$77.47,true,true
+803,Carbonated Water - Peach,C,8,$6.05,true,
+804,Pear - Asian,C,13,$34.08,false,false
+805,Oil - Safflower,,19,$27.74,true,true
+806,Jameson Irish Whiskey,A,27,$70.28,false,false
+807,Curry Powder,A,50,$33.08,false,true
+808,Cheese - Pont Couvert,B,41,$36.13,,
+809,Dates,C,21,$24.94,true,false
+810,"Pasta - Bauletti, Chicken White",A,30,$43.44,,
+811,"Cheese - Manchego, Spanish",B,28,$34.38,false,true
+812,Broom - Corn,C,34,$40.85,false,false
+813,Shortbread - Cookie Crumbs,D,13,$96.70,true,true
+814,Carbonated Water - Strawberry,C,1,$88.69,true,false
+815,Ice Cream - Vanilla,D,21,$26.81,true,true
+816,Fond - Neutral,A,15,$19.97,false,true
+817,Bacardi Mojito,,1,$90.80,true,true
+818,Southern Comfort,D,25,$40.59,true,
+819,"Soup - Campbells, Creamy",B,23,$82.39,,
+820,"Trout - Rainbow, Fresh",D,43,$43.18,false,false
+821,"Beer - Alexander Kieths, Pale Ale",B,29,$98.48,,
+822,Mountain Dew,B,38,$9.95,false,false
+823,Soup - Campbells Mushroom,B,26,$8.64,false,false
+824,Pie Filling - Pumpkin,C,23,$22.38,,
+825,Lychee,D,24,$25.67,true,false
+826,Asparagus - Mexican,,26,$39.78,,true
+827,Eggplant Italian,A,12,$28.62,true,false
+828,Grapes - Black,D,1,$66.50,,true
+829,"Basil - Primerba, Paste",D,49,$51.87,false,true
+830,"Pineapple - Canned, Rings",D,36,$62.16,true,false
+831,Bread - Pita,D,16,$62.89,,true
+832,"Bread - White, Sliced",A,10,$27.42,,false
+833,Wine - Penfolds Koonuga Hill,C,37,$42.47,true,false
+834,Container - Clear 32 Oz,B,31,$47.16,true,true
+835,Longos - Penne With Pesto,C,38,$77.67,true,true
+836,Tea - Decaf Lipton,D,16,$39.29,true,true
+837,Mushroom - Morel Frozen,B,36,$77.99,true,true
+838,"Pasta - Fettuccine, Egg, Fresh",C,34,$66.19,true,
+839,"Capon - Breast, Double, Wing On",D,24,$66.51,true,
+840,Tea - English Breakfast,B,14,$61.79,false,
+841,Eggplant - Asian,B,34,$88.02,false,false
+842,Breakfast Quesadillas,B,46,$85.11,true,false
+843,Sauce - Balsamic Viniagrette,B,24,$29.21,true,true
+844,Veal - Liver,B,38,$36.54,,
+845,Hipnotiq Liquor,A,41,$63.02,false,
+846,Pumpkin,,2,$94.16,false,false
+847,Soup - Campbells Chili Veg,A,47,$9.40,,false
+848,"Wine - Red, Wolf Blass, Yellow",A,49,$23.07,false,true
+849,"Roe - Lump Fish, Black",C,26,$27.06,,
+850,Wine - Chablis J Moreau Et Fils,,10,$80.53,false,true
+851,Mangostein,D,16,$29.77,true,
+852,Salt - Sea,A,1,$29.54,true,false
+853,"Liqueur Banana, Ramazzotti",B,44,$49.10,true,true
+854,Coffee Decaf Colombian,B,46,$42.46,false,false
+855,Baking Powder,B,44,$23.25,false,true
+856,Cheese - Cambozola,C,42,$97.33,true,true
+857,"Soup - Cream Of Broccoli, Dry",B,48,$62.16,true,
+858,Creme De Cacao Mcguines,,42,$7.16,true,false
+859,Chicken Thigh - Bone Out,A,2,$60.84,true,
+860,Dr. Pepper - 355ml,A,20,$93.36,false,true
+861,Longan,A,44,$73.61,false,
+862,Creme De Cacao Mcguines,D,31,$30.26,true,false
+863,Bag - Regular Kraft 20 Lb,C,43,$24.17,true,false
+864,Flax Seed,D,6,$56.61,true,false
+865,Capon - Whole,,44,$64.83,true,
+866,Oil - Shortening - All - Purpose,C,33,$16.85,false,true
+867,Kiwi Gold Zespri,A,50,$81.28,,true
+868,"Pasta - Penne, Lisce, Dry",C,7,$70.01,,
+869,Tart - Lemon,,14,$93.95,false,true
+870,Veal - Kidney,C,46,$70.24,false,
+871,Hand Towel,,12,$8.23,true,false
+872,"Brocolinni - Gaylan, Chinese",B,9,$47.43,true,false
+873,Onion Powder,C,3,$82.08,true,false
+874,Wine - Vouvray Cuvee Domaine,B,27,$43.75,false,false
+875,Dragon Fruit,C,1,$50.67,true,true
+876,"Veal - Brisket, Provimi,bnls",,22,$48.89,false,false
+877,Compound - Orange,A,45,$60.43,,false
+878,Chips - Potato Jalapeno,,45,$43.39,false,false
+879,Parsnip,A,17,$59.70,true,false
+880,Tomatoes - Yellow Hot House,C,6,$38.64,,
+881,Shiro Miso,A,16,$9.83,false,
+882,"Wine - Sherry Dry Sack, William",,10,$73.44,,
+883,"Glass - Wine, Plastic, Clear 5 Oz",B,5,$91.88,,true
+884,Milk - 2%,,9,$47.93,true,true
+885,Longos - Chicken Caeser Salad,A,45,$47.99,true,false
+886,Vanilla Beans,,24,$62.13,,
+887,Cup Translucent 9 Oz,A,47,$27.02,false,true
+888,The Pop Shoppe - Root Beer,D,4,$15.55,true,false
+889,Soup - Campbells Tomato Ravioli,B,16,$27.94,true,false
+890,Cheese - Cottage Cheese,,38,$39.34,true,true
+891,Potatoes - Fingerling 4 Oz,A,16,$60.79,true,false
+892,Chef Hat 25cm,A,29,$55.66,true,true
+893,Lotus Leaves,C,46,$27.71,false,false
+894,Frangelico,B,41,$35.62,true,false
+895,Spring Roll Wrappers,A,47,$54.08,false,false
+896,"Wine - Red, Colio Cabernet",D,41,$63.00,false,
+897,Ice Cream - Chocolate,A,16,$23.56,,true
+898,Wine - Penfolds Koonuga Hill,A,3,$62.84,false,true
+899,Pickles - Gherkins,D,38,$25.50,false,true
+900,Soup Campbells Beef With Veg,D,23,$90.91,true,false
+901,Water - Green Tea Refresher,B,33,$7.23,true,
+902,Wine - Alsace Riesling Reserve,B,47,$72.34,true,false
+903,Butter Ripple - Phillips,D,26,$88.65,true,false
+904,Rabbit - Whole,B,41,$78.47,false,true
+905,Tea - Earl Grey,A,34,$17.62,true,false
+906,Cod - Fillets,D,41,$75.44,true,true
+907,Appetizer - Veg Assortment,B,36,$24.61,true,true
+908,"Juice - Grapefruit, 341 Ml",D,29,$93.60,false,false
+909,Bread Fig And Almond,C,34,$86.21,,true
+910,Wine - Casillero Deldiablo,D,38,$11.20,false,false
+911,Chicken - Whole Fryers,D,28,$53.91,false,true
+912,"Veal - Tenderloin, Untrimmed",D,34,$19.62,false,false
+913,"Jam - Raspberry,jar",,15,$38.92,false,true
+914,Water - Evian 355 Ml,,10,$14.20,true,false
+915,Duck - Breast,C,21,$77.31,false,false
+916,Beef Dry Aged Tenderloin Aaa,B,7,$86.05,true,true
+917,Longos - Assorted Sandwich,B,40,$97.42,true,
+918,Muskox - French Rack,C,35,$47.47,true,true
+919,"Beef - Rib Roast, Capless",A,11,$43.13,,true
+920,Foil Cont Round,B,33,$71.75,true,true
+921,Blueberries,C,33,$84.48,false,true
+922,Paper Towel Touchless,,21,$85.14,true,false
+923,Kiwano,A,38,$62.94,false,
+924,"Soup - Beef Conomme, Dry",B,42,$80.78,,false
+925,Cotton Wet Mop 16 Oz,B,27,$10.02,,true
+926,"Wine - White, Ej",,24,$19.51,true,false
+927,Wine - Montecillo Rioja Crianza,D,48,$25.89,false,
+928,Sobe - Orange Carrot,B,13,$82.56,true,
+929,Pork - Liver,,10,$66.42,true,false
+930,"Cheese - Havarti, Roasted Garlic",C,39,$89.89,false,true
+931,"Fish - Scallops, Cold Smoked",D,14,$53.37,false,
+932,Wine - Mondavi Coastal Private,A,15,$16.60,true,true
+933,Cookie Choc,B,33,$63.37,false,true
+934,Seaweed Green Sheets,D,31,$16.52,true,false
+935,Chocolate Bar - Smarties,A,11,$59.08,true,false
+936,Vinegar - Tarragon,B,31,$13.68,false,false
+937,Ecolab - Hobart Upr Prewash Arm,D,49,$89.02,true,
+938,Cocoa Powder - Dutched,D,46,$30.55,,true
+939,Green Tea Refresher,B,35,$47.67,true,false
+940,Cookie - Dough Variety,A,32,$84.69,true,false
+941,Eggplant - Asian,A,5,$41.93,false,
+942,Wine - Savigny - Les - Beaune,C,13,$61.07,false,false
+943,Cheese - Provolone,,38,$22.98,,false
+944,Pastry - Chocolate Chip Muffin,A,14,$71.68,false,true
+945,Flavouring - Orange,C,44,$66.94,,false
+946,"Pork - Bacon,back Peameal",B,45,$66.30,false,true
+947,Sour Cream,,12,$36.56,false,
+948,"Soup - Beef, Base Mix",C,45,$48.84,false,false
+949,Hot Chocolate - Individual,C,35,$37.46,true,
+950,Dill Weed - Fresh,,4,$61.31,true,false
+951,Soup - Campbells Bean Medley,,33,$73.08,true,false
+952,Edible Flower - Mixed,,16,$49.40,false,false
+953,Tomatoes - Roma,C,48,$7.01,false,true
+954,"Pasta - Spaghetti, Dry",,42,$40.26,false,
+955,Mcgillicuddy Vanilla Schnap,,21,$43.74,,false
+956,Filter - Coffee,D,16,$36.60,false,false
+957,Table Cloth 72x144 White,D,47,$34.85,true,false
+958,Beer - True North Lager,D,23,$62.32,true,true
+959,Kellogs All Bran Bars,A,11,$16.24,true,
+960,"Loaf Pan - 2 Lb, Foil",B,39,$80.95,,false
+961,Cabbage Roll,C,7,$35.31,true,
+962,Napkin White - Starched,B,4,$57.90,false,true
+963,"Flour - Corn, Fine",C,23,$57.63,false,true
+964,Edible Flower - Mixed,A,15,$77.54,true,
+965,Compound - Strawberry,A,22,$9.93,false,
+966,Sansho Powder,A,44,$82.09,true,false
+967,Wine - Sicilia Igt Nero Avola,,16,$44.73,false,true
+968,Beer - Blue Light,A,48,$31.35,false,true
+969,Wine - Remy Pannier Rose,C,3,$56.43,false,true
+970,Beef Flat Iron Steak,C,47,$26.91,false,true
+971,Bar Nature Valley,,24,$41.65,true,true
+972,Cheese - Gouda Smoked,A,30,$39.57,true,false
+973,Truffle Cups Green,B,46,$42.52,false,true
+974,Extract - Lemon,B,23,$39.58,,false
+975,Energy Drink Bawls,C,22,$6.48,true,false
+976,Amarula Cream,D,1,$32.96,true,false
+977,"Rum - Cream, Amarula",A,13,$60.48,true,true
+978,V8 - Berry Blend,B,43,$12.36,true,false
+979,Sprouts - Peppercress,D,39,$8.06,,true
+980,Beer - Pilsner Urquell,C,41,$26.67,true,true
+981,Cookie Dough - Oatmeal Rasin,,31,$18.04,false,
+982,Pants Custom Dry Clean,,16,$29.18,true,false
+983,Sherbet - Raspberry,A,31,$9.15,true,
+984,"Mushroom - Shitake, Dry",,1,$61.42,true,
+985,Wine - Casillero Del Diablo,,25,$53.46,true,false
+986,Mayonnaise,,40,$85.44,true,
+987,"Juice - Apple, 500 Ml",C,45,$33.41,true,false
+988,Yams,B,12,$61.94,false,false
+989,Swiss Chard - Red,A,34,$98.88,false,
+990,Beef - Eye Of Round,B,25,$38.25,false,false
+991,"Soup - Campbells, Spinach Crm",,15,$91.94,true,true
+992,"Water - Mineral, Carbonated",,12,$61.70,true,false
+993,Pepper - Pablano,B,24,$91.83,true,true
+994,Tea - Herbal Sweet Dreams,,37,$63.37,false,true
+995,Muffin Mix - Corn Harvest,A,31,$99.47,true,true
+996,Capon - Whole,,13,$51.27,,true
+997,"Chicken - Base, Ultimate",,43,$89.32,,true
+998,Muffin Batt - Blueberry Passion,A,18,$23.03,,true
+999,"Pasta - Canelloni, Single Serve",B,11,$48.26,true,false
+1000,Truffle Cups Green,,31,$75.14,false,
