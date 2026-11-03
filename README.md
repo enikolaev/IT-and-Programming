@@ -6,4 +6,4 @@
 
 ---
 
-Журналы с оценками - в [е-кампус](https://ecampus.ncfu.ru/)
+Журналы с оценками - в [е-кампус](https://ecampus.ncfu.ru/){:target="_blank"}
