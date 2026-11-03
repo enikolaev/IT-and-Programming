@@ -6,4 +6,4 @@
 
 ---
 
-Журналы с оценками - в [е-кампус](https://ecampus.ncfu.ru/){:target="_blank"}
+Оценки, посещаемость - в <a href="https://ecampus.ncfu.ru/" target="_blank">е-кампус</a>
