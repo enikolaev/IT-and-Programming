@@ -1,4 +1,4 @@
-# Информационные технологии и программирование
+# :rocket: Информационные технологии и программирование
 
 [Методические указания к лабораторным работам](https://drive.google.com/file/d/1TWv7LTIpNdTKqIRyCIjpaNaki9ToZFNo/view?usp=sharing)
 
