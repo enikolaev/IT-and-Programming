@@ -6,4 +6,4 @@
 
 ---
 
-Оценки, посещаемость - в <a href="https://ecampus.ncfu.ru/" target="_blank">е-кампус</a>
+Оценки, посещаемость - в <a href="https://ecampus.ncfu.ru/" target=_blank>е-кампус</a>
